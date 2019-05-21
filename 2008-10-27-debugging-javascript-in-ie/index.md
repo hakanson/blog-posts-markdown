@@ -1,0 +1,10 @@
+---
+title: Debugging JavaScript in IE
+slug: debugging-javascript-in-ie
+author: Kevin Hakanson
+date: 2008-10-27
+tags: ["javascript"]
+---
+If you have everything set up, you can use Visual Studio to debug JavaScript errors when you hit them in IE7 (IE8 will have debugging built into the [developer tools](http://blogs.msdn.com/ie/archive/2008/03/07/improved-productivity-through-internet-explorer-8-developer-tools.aspx)).  You just click “Yes” when the dialog appears.  However, I have don’t have everything set up as needed.  Because I’m a developer on a .NET team, I have the full install of Visual Studio 2008, but it’s on my VPC image, and I often use IE on the host OS.  I also have Visual Studio installed on my host, but it’s only for Team Explorer so I can access TFS.  This almost makes things worse, because IE sees Visual Studio and will prompt me to debug in a “new instance of Visual Studio,” but it doesn’t have the debugging support.
+
+So, when I heard about the [Microsoft Visual Web Developer 2008 Express Edition](http://www.microsoft.com/express/vwd/), I got excited I could have the seamless debugger experience today.  However, it can’t attach to IE at runtime and doesn’t allow you to debug unless you launch IE from Visual Web Developer.  I did google the problem and found [Debugging AJAX Applications on IE: Using Visual Web Developer Express](http://it.toolbox.com/blogs/web2-place/debugging-ajax-applications-on-ie-using-visual-web-developer-express-17432), which referenced [How to debug JavaScript with Visual Web Developer Express](http://www.berniecode.com/blog/2007/03/08/how-to-debug-javascript-with-visual-web-developer-express/).  I followed the advice of the latter article and can now debug when I know I am going to have a problem.  Not as nice as on-demand with Firebug or the upcoming IE8, but of some use when I need to track down a bug with our application on IE.
