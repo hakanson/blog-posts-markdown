@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2015-09-28";
-let title = "Replacement strategy for Google Search Appliance?";
+let date = "2017-08-24";
+let title = "Amazon RDS and IAM Policy Notes";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
 let hasImages = false;
-let tags = ["web", "search"];
+let tags = ["aws", "aws iam"];
 
 let slug =  `---
 title: ${title}
