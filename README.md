@@ -158,3 +158,4 @@ Raw blog posts formatted in markdown for future import into somewhere else.
 * [2019-04-10-aws-iam-policy-for-service-user-s3-access](2019-04-10-aws-iam-policy-for-service-user-s3-access/index.md) 
 * [2019-04-22-goodbye-oracle-java-8-hello-amazon-corretto-8](2019-04-22-goodbye-oracle-java-8-hello-amazon-corretto-8/index.md) 
 * [2019-05-03-aws-tools-for-powershell-on-macos](2019-05-03-aws-tools-for-powershell-on-macos/index.md) 
+* [2019-06-09-uml-sequence-diagrams-using-plantuml](2019-06-09-uml-sequence-diagrams-using-plantuml/index.md) 
