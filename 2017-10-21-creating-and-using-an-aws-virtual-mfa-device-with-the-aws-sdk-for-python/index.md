@@ -71,7 +71,7 @@ To use the Virtual MFA Device in an [`assume_role`](http://boto3.readthedocs.io/
 ```python
 sts_client = session.client('sts')
 
-totp = pyotp.TOTP(TOTP_SECRET)
+totp = pyotp.TOTP(string_seed)
 token_code = totp.now()
 
 response = sts_client.assume_role(

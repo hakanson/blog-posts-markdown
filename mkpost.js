@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2017-08-24";
-let title = "Amazon RDS and IAM Policy Notes";
+let date = "2019-06-09";
+let title = "UML Sequence Diagrams using PlantUML";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
-let hasImages = false;
-let tags = ["aws", "aws iam"];
+let hasImages = true;
+let tags = ["uml", "documentation"];
 
 let slug =  `---
 title: ${title}

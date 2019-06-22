@@ -3,7 +3,7 @@ title: WebSequenceDiagrams Notation
 slug: websequencediagrams-notation
 author: Kevin Hakanson
 date: 2016-03-01
-tags: ["api"]
+tags: ["uml", "documentation"]
 ---
 [https://www.websequencediagrams.com/](https://www.websequencediagrams.com/) supports notation for synchronous calls, asynchronous calls, return calls and activations.  These features are useful for documenting complex interactions with some of the operations happening in the background.  The example below illustrates these interactions (see [https://www.websequencediagrams.com/examples.html](https://www.websequencediagrams.com/examples.html) for full documentation).
 
