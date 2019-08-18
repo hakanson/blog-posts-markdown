@@ -1,8 +1,9 @@
 ---
 title: I love to talk; I hate to type.
-slug: i-love-to-talk-i-hate-to-type
+slug: /2014-06-01-i-love-to-talk-i-hate-to-type
 author: Kevin Hakanson
 date: 2014-06-01
+tags: ["random", "vui"]
 ---
 If you know me, you won't be surprised that I love to talk. What you may not know, is that I hate to type. Between my poor spelling and my constant typos, I think the `delete` key accounts for about 50% of my keystrokes. In fact, typing class was the only B-grade in my high school career. 25 years later and I'm not that much better.
 

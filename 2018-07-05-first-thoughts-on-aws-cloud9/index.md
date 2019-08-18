@@ -1,9 +1,9 @@
 ---
 title: First Thoughts on AWS Cloud9
-slug: first-thoughts-on-aws-cloud9
+slug: /2018-07-05-first-thoughts-on-aws-cloud9
 author: Kevin Hakanson
 date: 2018-07-05
-tags: ["http","cloud9","python","ide"]
+tags: ["aws", "cloud9", "python"]
 ---
 The other week I had trouble creating an [AWS Cloud9](https://aws.amazon.com/cloud9/) environment, so I tried again today - and with success, because I actually met the requirements found at [VPC Settings for AWS Cloud9 Development Environments](https://docs.aws.amazon.com/cloud9/latest/user-guide/vpc-settings.html) and put the instance in a public subnet.  However, it created a Security Group with port 22 open to the internet - which I didn't like...
 

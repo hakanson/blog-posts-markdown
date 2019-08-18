@@ -3,7 +3,7 @@ title: AWS Chalice, Amazon API Gateway, and AWS IAM Authorization
 slug: aws-chalice-amazon-api-gateway-and-aws-iam-authorization
 author: Kevin Hakanson
 date: 2017-08-15
-tags: ["aws","aws iam","python","api"]
+tags: ["aws", "iam", "python", "api"]
 ---
 I've wanted to take a hands-on look at [Amazon API Gateway](https://aws.amazon.com/api-gateway/) and the recent 1.0 release of [aws/chalice: Python Serverless Microframework for AWS](https://github.com/aws/chalice) pushed me over the edge.
 

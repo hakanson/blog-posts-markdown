@@ -1,9 +1,9 @@
 ---
 title: AWS WAF vs. ModSecurity
-slug: aws-waf-vs-modsecurity
+slug: /2016-04-25-aws-waf-vs-modsecurity
 author: Kevin Hakanson
 date: 2016-04-25
-tags: ["aws","web","information security"]
+tags: ["aws", "waf", "webdev", "security"]
 ---
 In a recent meeting with the corporate security team, it was mentioned that a Web Application Firewall (WAF) might be the recommendation for cloud projects to protect against XSS and SQL Injection.  The Cloud Security Workstream has done some research, including WAF options.  As I dug into what an AWS WAF solution might look like, I came up with this diagram:
 

@@ -1,9 +1,9 @@
 ---
 title: Excited about Azure SignalR Service/ASP.NET Core SignalR
-slug: excited-about-azure-signalr-serviceaspnet-core-signalr
+slug: /2018-11-08-excited-about-azure-signalr-serviceaspnet-core-signalr
 author: Kevin Hakanson
 date: 2018-11-08
-tags: ["azure",".net", "podcasts"]
+tags: ["azure", "dotnet", "podcast"]
 ---
 I hadn't been paying much attention to SignalR lately, but recently listened to [.NET Rocks! SignalR with Anthony Chu](https://dotnetrocks.com/?show=1583) and got excited.  I had always liked the idea of SignalR, and it worked great for .NET based web applications, but I saw gaps for a distributed, multi-language, microservice model and the proprietary protocol.
 

@@ -1,6 +1,6 @@
 ---
 title: JavaScript vs. JSON encoding
-slug: javascript-vs-json-encoding
+slug: /2009-08-03-javascript-vs-json-encoding
 author: Kevin Hakanson
 date: 2009-08-03
 tags: ["javascript"]

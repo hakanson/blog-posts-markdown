@@ -1,9 +1,9 @@
 ---
 title: Debugging JavaScript in IE
-slug: debugging-javascript-in-ie
+slug: /2008-10-27-debugging-javascript-in-ie
 author: Kevin Hakanson
 date: 2008-10-27
-tags: ["javascript"]
+tags: ["javascript", "webdev"]
 ---
 If you have everything set up, you can use Visual Studio to debug JavaScript errors when you hit them in IE7 (IE8 will have debugging built into the [developer tools](http://blogs.msdn.com/ie/archive/2008/03/07/improved-productivity-through-internet-explorer-8-developer-tools.aspx)).  You just click “Yes” when the dialog appears.  However, I have don’t have everything set up as needed.  Because I’m a developer on a .NET team, I have the full install of Visual Studio 2008, but it’s on my VPC image, and I often use IE on the host OS.  I also have Visual Studio installed on my host, but it’s only for Team Explorer so I can access TFS.  This almost makes things worse, because IE sees Visual Studio and will prompt me to debug in a “new instance of Visual Studio,” but it doesn’t have the debugging support.
 

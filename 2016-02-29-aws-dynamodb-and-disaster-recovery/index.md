@@ -1,9 +1,9 @@
 ---
 title: AWS DynamoDB and Disaster Recovery
-slug: aws-dynamodb-and-disaster-recovery
+slug: /2016-02-29-aws-dynamodb-and-disaster-recovery
 author: Kevin Hakanson
 date: 2016-02-29
-tags: ["aws","nosql","disaster recovery"]
+tags: ["aws", "database", "disasterrecovery"]
 ---
 AWS DynamoDB (managed NoSQL database) appears to lag behind AWS RDS (managed relational database) w.r.t. some disaster recovery features:
 

@@ -1,9 +1,9 @@
 ---
 title: Penetration Testing, Secure Code Review, and Secure Design Review (Threat Modeling)
-slug: penetration-testing-secure-code-review-and-secure-design-review-threat-modeling
+slug: /2017-07-20-penetration-testing-secure-code-review-and-secure-design-review-threat-modeling
 author: Kevin Hakanson
 date: 2017-07-20
-tags: ["information security"]
+tags: ["security", "codequality"]
 ---
 [Software Security Initiative Capabilities: Getting Started](https://www.synopsys.com/blogs/software-security/software-security-initiative-capabilities/) mentions three common security capabilities:
 

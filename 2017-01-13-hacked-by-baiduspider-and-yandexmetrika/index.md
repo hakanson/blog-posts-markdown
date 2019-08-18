@@ -1,9 +1,9 @@
 ---
 title: "\"Hacked\" by Baiduspider and YandexMetrika"
-slug: hacked-by-baiduspider-and-yandexmetrika
+slug: /2017-01-13-hacked-by-baiduspider-and-yandexmetrika
 author: Kevin Hakanson
 date: 2017-01-13
-tags: ["aws","information security"]
+tags: ["aws", "xray", "security", "monitoring"]
 ---
 Earlier this week, I was investigating the preview of [AWS X-Ray – Distributed Tracing System](https://aws.amazon.com/xray/) and got quite a scare.  After I deployed my sample app to [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/), I went into the AWS X-Ray Console to look at my trace data and saw more domain names listed than just the `dev-env.3tp23hiz9p.us-east-1.elasticbeanstalk.com` I was expecting - including at least one domain that is NSFW!
 

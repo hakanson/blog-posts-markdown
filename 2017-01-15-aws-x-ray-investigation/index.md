@@ -3,7 +3,7 @@ title: AWS X-Ray Investigation
 slug: aws-x-ray-investigation
 author: Kevin Hakanson
 date: 2017-01-15
-tags: ["aws","javascript","api"]
+tags: ["aws", "xray", "javascript", "monitoring"]
 ---
 In [Zipkin JS Investigation](../2016-06-10-zipkin-js-investigation) and [Zipkin JS Investigation (Part 2)](../2016-07-20-zipkin-js-investigation-part-2), I took a simple [Express](http://expressjs.com/) (Node.js) based web application and added [zipkin](http://zipkin.io/) tracing. I updated that application with support for [AWS X-Ray](https://aws.amazon.com/xray/) (Preview).   The code snippet below was based on instructions found at [http://docs.aws.amazon.com/xray-sdk-for-nodejs/latest/reference/](http://docs.aws.amazon.com/xray-sdk-for-nodejs/latest/reference/).
 

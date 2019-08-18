@@ -1,9 +1,9 @@
 ---
 title: "AWS Shield, ReadOnly, and \"not authorized to perform: shield:GetSubscriptionState\" work-around"
-slug: aws-shield-readonly-and-not-authorized-to-perform-shieldgetsubscriptionstate-work-around
+slug: /2018-09-06-aws-shield-readonly-and-not-authorized-to-perform-shieldgetsubscriptionstate-work-around
 author: Kevin Hakanson
 date: 2018-09-06
-tags: ["aws","aws iam","information security"]
+tags: ["aws", "iam", "security"]
 ---
 As a "ReadOnly" user, if you go to try and look at [https://console.aws.amazon.com/waf/home#/ddp/onboard/info](https://console.aws.amazon.com/waf/home#/ddp/onboard/info), you may get blocked with this message:
 

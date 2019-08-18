@@ -1,9 +1,9 @@
 ---
 title: Finding Publicly Exposed Amazon S3 Buckets
-slug: finding-publicly-exposed-amazon-s3-buckets
+slug: /2017-07-19-finding-publicly-exposed-amazon-s3-buckets
 author: Kevin Hakanson
 date: 2017-07-19
-tags: ["aws","automation","information security"]
+tags: ["aws", "devops", "security", "s3"]
 ---
 You may have read recent news about millions of Verizon customers having their data exposed (see [Experts Warn Too Often AWS S3 Buckets Are Misconfigured, Leak Data](https://threatpost.com/experts-warn-too-often-aws-s3-buckets-are-misconfigured-leak-data/126826/)).
 

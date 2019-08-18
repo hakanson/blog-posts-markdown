@@ -1,6 +1,6 @@
 ---
 title: API-First and the Customer Experience
-slug: api-first-and-the-customer-experience
+slug: /2017-10-17-api-first-and-the-customer-experience
 author: Kevin Hakanson
 date: 2017-10-17
 tags: ["api"]

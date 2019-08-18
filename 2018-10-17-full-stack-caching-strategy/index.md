@@ -3,7 +3,7 @@ title: "\"Full Stack\" Caching Strategy"
 slug: full-stack-caching-strategy
 author: Kevin Hakanson
 date: 2018-10-17
-tags: ["caching","http","web"]
+tags: ["webdev", "caching", "http"]
 ---
 > _"Caching is somebody else's problem, until it's not" - me (just now)_
 

@@ -1,9 +1,9 @@
 ---
 title: How IAM Roles Become Credentials on EC2
-slug: how-iam-roles-become-credentials-on-ec2
+slug: /2016-08-15-how-iam-roles-become-credentials-on-ec2
 author: Kevin Hakanson
 date: 2016-08-15
-tags: ["aws","aws iam"]
+tags: ["aws", "iam", "security"]
 ---
 While investigating how to secure S3 buckets using IAM Roles, I was curious how the IAM Role assigned to my EC2 instance became the credentials an AWS based application could use.  IAM Roles for EC2 are the recommended practices, but how they worked was "magic" to me.
 

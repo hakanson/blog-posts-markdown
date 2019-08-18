@@ -1,9 +1,9 @@
 ---
-title: Marking HTTP Pages as “Not Secure”
-slug: marking-http-pages-as-not-secure
+title: "Marking HTTP Pages as \"Not Secure\""
+slug: /2018-02-09-marking-http-pages-as-not-secure
 author: Kevin Hakanson
 date: 2018-02-09
-tags: ["http","information security"]
+tags: ["http", "webdev", "security"]
 ---
 [Chromium Blog: A secure web is here to stay](https://blog.chromium.org/2018/02/a-secure-web-is-here-to-stay.html) put a deadline for marking HTTP as "Not Secure":
 

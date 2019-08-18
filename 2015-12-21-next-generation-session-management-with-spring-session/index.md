@@ -1,9 +1,9 @@
 ---
 title: Next Generation Session Management with Spring Session
-slug: next-generation-session-management-with-spring-session
+slug: /2015-12-21-next-generation-session-management-with-spring-session
 author: Kevin Hakanson
 date: 2015-12-21
-tags: ["java","spring"]
+tags: ["java", "spring", "security"]
 ---
 I read [Next Generation Session Management with Spring Session](http://www.infoq.com/articles/Next-Generation-Session-Management-with-Spring-Session) wondering if there was overlap.  However, it looks more like a cloud native drop-in for your existing Java session aware code with easier ways to hook into "non web requests" like JMS or WebSockets.  It maybe useful for those microservices that still need a key/value session that isn't tied to a service instance.
 

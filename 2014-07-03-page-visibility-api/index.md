@@ -1,9 +1,9 @@
 ---
 title: Page Visibility API
-slug: page-visibility-api
+slug: /2014-07-03-page-visibility-api
 author: Kevin Hakanson
 date: 2014-07-03
-tags: ["javascript", "angularjs"]
+tags: ["javascript", "ux", "angularjs"]
 ---
 I am taking an online **Leadership & Influence for Architects** training series with about 20 architects across the company.  The facilitator requested full attention and to avoid the temptation to multi-task.  Of course, I complied, but I wondered if they could detect infractions from the other attendees.  Then I remembered the [Page Visibility API](http://www.w3.org/TR/page-visibility/) and realized that they could tell if anyone was switching browser tabs to check email or Twitter.  I'm sure that some advertisers use this to force you to watch that 30-second lead-in video ad before consuming the content you came to watch.
 

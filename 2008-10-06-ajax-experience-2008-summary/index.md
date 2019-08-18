@@ -1,9 +1,9 @@
 ---
 title: Ajax Experience 2008 Summary
-slug: ajax-experience-2008-summary
+slug: /2008-10-06-ajax-experience-2008-summary
 author: Kevin Hakanson
 date: 2008-10-06
-tags: ["conference"]
+tags: ["webdev", "conference"]
 ---
 
 Last week, I attended the [Ajax Experience 2008](http://ajaxexperience.techtarget.com/html/index.html) in Boston.  There were a lot of interesting sessions, and I talked with many of the [speakers](http://ajaxexperience.techtarget.com/east/html/speakers.html).  Here is a recap of some of the more exciting things I learned.

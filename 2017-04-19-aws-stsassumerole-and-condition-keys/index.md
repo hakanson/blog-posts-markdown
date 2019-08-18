@@ -1,9 +1,9 @@
 ---
-title: AWS sts:AssumeRole and Condition Keys
-slug: aws-stsassumerole-and-condition-keys
+title: "AWS sts:AssumeRole and Condition Keys"
+slug: /2017-04-19-aws-stsassumerole-and-condition-keys
 author: Kevin Hakanson
 date: 2017-04-19
-tags: ["aws","aws iam"]
+tags: ["aws", "iam"]
 ---
 In wondering how to restrict roles to only allowed to be assumed from specific EC2 instances, I found [Actions and Condition Context Keys for AWS Security Token Service - AWS Identity and Access Management](http://docs.aws.amazon.com/IAM/latest/UserGuide/list_sts.html), which lists the `Action` key that is used to assume role:
 

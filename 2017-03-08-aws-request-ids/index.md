@@ -1,9 +1,9 @@
 ---
 title: AWS Request IDs
-slug: aws-request-ids
+slug: /2017-03-08-aws-request-ids
 author: Kevin Hakanson
 date: 2017-03-08
-tags: ["aws","api"]
+tags: ["aws", "http", "monitoring"]
 ---
 I was reading [Techniques and Tools for Better Serverless API Logging with Amazon API Gateway and AWS Lambda](https://aws.amazon.com/blogs/compute/techniques-and-tools-for-better-serverless-api-logging-with-amazon-api-gateway-and-aws-lambda/) when I came across a reference to the **x-amzn-RequestId** HTTP response header.  This appears to be a common way for Amazon services to return a unique request id. Each service has documentation similar to this:
 

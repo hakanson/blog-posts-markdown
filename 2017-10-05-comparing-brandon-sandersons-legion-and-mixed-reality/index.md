@@ -1,9 +1,9 @@
 ---
 title: Comparing Brandon Sanderson's Legion and Mixed Reality
-slug: comparing-brandon-sandersons-legion-and-mixed-reality
+slug: /2017-10-05-comparing-brandon-sandersons-legion-and-mixed-reality
 author: Kevin Hakanson
 date: 2017-10-05
-tags: ["mixed reality"]
+tags: ["random", "mixedreality"]
 ---
 At some point, I received a free copy of the [Legion audiobook](https://www.audible.com/pd/Sci-Fi-Fantasy/Legion-Audiobook/B009GJVJC4/ref=a_search_c4_1_2_srTtl?qid=1507206788&sr=1-2) from Audible.  [Legion is a novella](https://brandonsanderson.com/books/legion/legion/), so the unabridged audio is just over 2 hours. It was released in 2012, but I finally listened to it on a recent road trip.  The main character is a private investigator.
 

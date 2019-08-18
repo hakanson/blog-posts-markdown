@@ -1,9 +1,9 @@
 ---
 title: AWS Cloud9 and Sharing with Role Issue
-slug: aws-cloud9-and-sharing-with-role-issue
+slug: /2018-11-21-aws-cloud9-and-sharing-with-role-issue
 author: Kevin Hakanson
 date: 2018-11-21
-tags: ["aws","aws iam", "ide"]
+tags: ["aws", "cloud9", "iam"]
 ---
 A co-worker and I were investigating [AWS Cloud9](https://aws.amazon.com/cloud9/) and the ability to share environments.  However, when you do a **Window - Share...** from inside the environment, you get this dialog:
 

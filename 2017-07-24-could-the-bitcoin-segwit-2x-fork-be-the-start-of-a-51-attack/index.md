@@ -1,9 +1,9 @@
 ---
-title: Could the Bitcoin "SegWit 2x" fork be the start of a "51% Attack"?
-slug: could-the-bitcoin-segwit-2x-fork-be-the-start-of-a-51-attack
+title: "Could the Bitcoin \"SegWit 2x\" fork be the start of a \"51% Attack\"?"
+slug: /2017-07-24-could-the-bitcoin-segwit-2x-fork-be-the-start-of-a-51-attack
 author: Kevin Hakanson
 date: 2017-07-24
-tags: ["bitcoin"]
+tags: ["random", "security"]
 ---
 **Update:**  [Bitcoin Segwit2x hard fork suspended | ZDNet](http://www.zdnet.com/article/bitcoin-segwit2x-hard-fork-suspended/)
 

@@ -1,9 +1,9 @@
 ---
 title: Facebook GraphQL/Relay and Netflix Falcor
-slug: facebook-graphqlrelay-and-netflix-falcor
+slug: /2015-04-01-facebook-graphqlrelay-and-netflix-falcor
 author: Kevin Hakanson
 date: 2015-04-01
-tags: ["javascript", "apis", "graphql"]
+tags: ["webdev", "api", "graphql"]
 ---
 I have my eye on two new client-side, data-access technologies that will be open sourced "soon".  They are both trying to solve redundancy and coupling concerns between client-side code/data models and server-side code/HTTP endpoints.  How?  Both are a bit of a mystery right now so that is hard to answer.
 

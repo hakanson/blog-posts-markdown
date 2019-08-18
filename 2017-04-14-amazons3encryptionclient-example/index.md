@@ -1,9 +1,9 @@
 ---
 title: AmazonS3EncryptionClient example
-slug: amazons3encryptionclient-example
+slug: /2017-04-14-amazons3encryptionclient-example
 author: Kevin Hakanson
 date: 2017-04-14
-tags: ["aws","aws sdk","encryption"]
+tags: ["aws", "java", "sdk", "encryption"]
 ---
 The following code uses the `AmazonS3EncryptionClient` from the `aws-java-sdk` to put an encrypted object into an S3 bucket.
 

@@ -1,9 +1,9 @@
 ---
 title: Pokemon Go vs. Certificate Pinning
-slug: pokemon-go-vs-certificate-pinning
+slug: /2016-07-11-pokemon-go-vs-certificate-pinning
 author: Kevin Hakanson
 date: 2016-07-11
-tags: ["http","information security","pokemon"]
+tags: ["http", "security", "pokemon"]
 ---
 Saw this Tweet from [@notdan](https://twitter.com/notdan) about the [Pokémon Go](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/) video game and their lack of certificate pinning:
 

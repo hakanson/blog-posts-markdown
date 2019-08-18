@@ -1,9 +1,9 @@
 ---
 title: The Architecture of Open Source Applications
-slug: the-architecture-of-open-source-applications
+slug: /2014-06-24-the-architecture-of-open-source-applications
 author: Kevin Hakanson
 date: 2014-06-24
-tags: ["open source", "software architecture"]
+tags: ["opensource", "architecture"]
 ---
 I was reading through my latest [Dr. Dobbs](http://www.drdobbs.com/) Update email, and saw an interesting article on [Firefox Release Engineering](http://www.drdobbs.com/article/print?articleId=240168409&siteSectionName=architecture-and-design).
 

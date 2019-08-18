@@ -1,9 +1,9 @@
 ---
 title: AWS Identity-Based, Resource-Based, Resource-Level, and Tag-Based Permissions
-slug: aws-identity-based-resource-based-resource-level-and-tag-based-permissions
+slug: /2017-04-25-aws-identity-based-resource-based-resource-level-and-tag-based-permissions
 author: Kevin Hakanson
 date: 2017-04-25
-tags: ["aws","aws iam"]
+tags: ["aws", "iam"]
 ---
 In [Overview of AWS IAM Permissions - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/access_permissions.html), they introduce identity-based and resource-based permissions:
 

@@ -1,9 +1,9 @@
 ---
 title: Content-Security-Policy HTTP Header Braindump
-slug: content-security-policy-http-header-braindump
+slug: /2018-04-27-content-security-policy-http-header-braindump
 author: Kevin Hakanson
 date: 2018-04-27
-tags: ["http","web","information security"]
+tags: ["http", "webdev", "javascript", "security"]
 ---
 From [Content Security Policy (CSP) - HTTP | MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP)
 

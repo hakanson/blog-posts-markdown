@@ -1,9 +1,9 @@
 ---
 title: X-XSS-Protection is Dead, Long Live Content-Security-Policy
-slug: x-xss-protection-is-dead-long-live-content-security-policy
+slug: /2018-10-11-x-xss-protection-is-dead-long-live-content-security-policy
 author: Kevin Hakanson
 date: 2018-10-11
-tags: ["information security","http","web"]
+tags: ["http", "webdev", "security"]
 ---
 In mid-July it was reported that [XSS protection disappears from Microsoft Edge](https://portswigger.net/daily-swig/xss-protection-disappears-from-microsoft-edge) and [Find out what’s new in Windows and Office in October](https://blogs.windows.com/windowsexperience/2018/10/02/find-out-whats-new-in-windows-and-office-in-october/) confirms this happened.
 

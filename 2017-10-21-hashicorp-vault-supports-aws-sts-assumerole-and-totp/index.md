@@ -1,9 +1,9 @@
 ---
 title: HashiCorp Vault supports AWS STS AssumeRole and TOTP
-slug: hashicorp-vault-supports-aws-sts-assumerole-and-totp
+slug: /2017-10-21-hashicorp-vault-supports-aws-sts-assumerole-and-totp
 author: Kevin Hakanson
 date: 2017-10-21
-tags: ["aws","aws iam","information security"]
+tags: ["aws", "iam", "mfa", "security"]
 ---
 The working security model for on-premise servers to access AWS resources is an IAM User which should only assume an IAM Role.  This makes the behavior similar to the Role-based permissions used by EC2 or Lambda.  This IAM User cannot log in onto the AWS Console, but uses an Access Key as long term credentials.  The call to `sts:AssumeRole` returns temporary security credentials that are valid for an hour. (see [Controlling Permissions for Temporary Security Credentials - AWS Identity and Access Management](http://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_temp_control-access.html)).
 

@@ -1,9 +1,9 @@
 ---
 title: Zipkin JS Investigation (Part 2)
-slug: zipkin-js-investigation-part-2
+slug: /2016-07-20-zipkin-js-investigation-part-2
 author: Kevin Hakanson
 date: 2016-07-20
-tags: ["javascript","api"]
+tags: ["javascript", "api", "monitoring"]
 ---
 The continuing story from my [Zipkin JS Investigation](../2016-06-10-zipkin-js-investigation)
 

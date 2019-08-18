@@ -1,9 +1,9 @@
 ---
 title: UX Issues with Authenticator Apps
-slug: ux-issues-with-authenticator-apps
+slug: /2016-10-17-ux-issues-with-authenticator-apps
 author: Kevin Hakanson
 date: 2016-10-17
-tags: ["user experience","authentication"]
+tags: ["ux", "mfa"]
 ---
 I recently got a new personal iPhone and realized that none of my accounts stored in Google Authenticator were restored via the iCloud backup restore process.  I thought it might be time to switch authenticator apps to something like [Authy](https://www.authy.com/app/), which supports encrypted backups and multiple devices (including desktop). 
 

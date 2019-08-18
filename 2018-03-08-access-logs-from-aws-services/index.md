@@ -1,9 +1,9 @@
 ---
 title: "\"Access Logs\" from AWS Services"
-slug: access-logs-from-aws-services
+slug: /2018-03-08-access-logs-from-aws-services
 author: Kevin Hakanson
 date: 2018-03-08
-tags: ["aws","http"]
+tags: ["aws", "http", "monitoring"]
 ---
 Some web facing AWS services that provide HTTP access, allow you to enable "Access Logs" written in a W3C extended log file format.
 

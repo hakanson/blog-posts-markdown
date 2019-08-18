@@ -1,6 +1,6 @@
 ---
 title: Solution to JavaScript's 0.1 + 0.2 = 0.30000000000000004 problem?
-slug: solution-to-javascripts-01-02-030000000000000004-problem
+slug: /2015-01-08-solution-to-javascripts-01-02-030000000000000004-problem
 author: Kevin Hakanson
 date: 2015-01-08
 tags: ["javascript"]

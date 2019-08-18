@@ -1,9 +1,9 @@
 ---
 title: Amazon RDS and Tag-Based Permissions
-slug: amazon-rds-and-tag-based-permissions
+slug: /2017-04-27-amazon-rds-and-tag-based-permissions
 author: Kevin Hakanson
 date: 2017-04-27
-tags: ["aws","aws iam"]
+tags: ["aws", "iam", "rds"]
 ---
 [AWS Identity-Based, Resource-Based, Resource-Level, and Tag-Based Permissions](../2017-04-25-aws-identity-based-resource-based-resource-level-and-tag-based-permissions) contains a link to [AWS Services That Work with IAM - AWS Identity and Access Management](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_aws-services-that-work-with-iam.html), which has the table of services supporting tag-based permissions.
 

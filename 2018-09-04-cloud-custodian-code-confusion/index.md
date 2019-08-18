@@ -1,9 +1,9 @@
 ---
 title: Cloud Custodian Code Confusion
-slug: cloud-custodian-code-confusion
+slug: /2018-09-04-cloud-custodian-code-confusion
 author: Kevin Hakanson
 date: 2018-09-04
-tags: ["aws","automation","information security"]
+tags: ["aws", "devops", "security"]
 ---
 A coworker and I were debugging incorrect results with our `app-elb-outdated-securitypolicy.yaml` Cloud Custodian policy.  Here is the filter that gave us 3 results when we were expecting 2:
 

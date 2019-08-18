@@ -1,9 +1,9 @@
 ---
 title: Amazon RDS and IAM Policy Notes
-slug: amazon-rds-and-iam-policy-notes
+slug: /2017-08-24-amazon-rds-and-iam-policy-notes
 author: Kevin Hakanson
 date: 2017-08-24
-tags: ["aws","aws iam"]
+tags: ["aws", "iam", "rds"]
 ---
 As a follow up to [Amazon RDS and Tag-Based Permissions](../2017-04-27-amazon-rds-and-tag-based-permissions), this document digs into an IAM policy that restricts by tag value.
 

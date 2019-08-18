@@ -1,9 +1,9 @@
 ---
 title: Categorizing Information Security Topics
-slug: categorizing-information-security-topics
+slug: /2016-07-20-categorizing-information-security-topics
 author: Kevin Hakanson
 date: 2016-07-20
-tags: ["information security"]
+tags: ["security"]
 ---
 "Security" as a topic or category can be confusing without additional context. This document attempts to categorize information security topics using industry standard groupings.
 

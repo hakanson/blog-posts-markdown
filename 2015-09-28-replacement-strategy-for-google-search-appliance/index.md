@@ -1,9 +1,9 @@
 ---
 title: Replacement strategy for Google Search Appliance?
-slug: replacement-strategy-for-google-search-appliance
+slug: /2015-09-28-replacement-strategy-for-google-search-appliance
 author: Kevin Hakanson
 date: 2015-09-28
-tags: ["web","search"]
+tags: ["webdev", "search"]
 ---
 During the introductions of an internal Search Experience Community meeting, a product was mentioned that uses the Google Search Appliance (GSA) and was looking to move off of that platform onto Elastic.
 

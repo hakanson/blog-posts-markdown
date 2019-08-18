@@ -1,9 +1,9 @@
 ---
 title: CDN Hosting of JavaScript and Information Security Aspects
-slug: cdn-hosting-of-javascript-and-information-security-aspects
+slug: /2014-07-03-cdn-hosting-of-javascript-and-information-security-aspects
 author: Kevin Hakanson
 date: 2014-07-03
-tags: ["javascript", "information security"]
+tags: ["javascript", "security", "webdev"]
 ---
 During the last Front-End group call, we were discussing JavaScript combination/minification when the topic of using a [Content Delivery Network](http://en.wikipedia.org/wiki/Content_delivery_network) (CDN) came up.  This is a well-known performance "best practice" on the internet, but I mentioned it comes with some interesting information security concerns.  It looks something like this:
 

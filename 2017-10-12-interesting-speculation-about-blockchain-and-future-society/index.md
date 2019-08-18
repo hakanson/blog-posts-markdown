@@ -1,9 +1,9 @@
 ---
 title: Interesting Speculation about Blockchain and Future Society
-slug: interesting-speculation-about-blockchain-and-future-society
+slug: /2017-10-12-interesting-speculation-about-blockchain-and-future-society
 author: Kevin Hakanson
 date: 2017-10-12
-tags: ["blockchain"]
+tags: ["random", "blockchain"]
 ---
 I recently read [The Blockchain Man](https://www.ribbonfarm.com/2017/10/10/the-blockchain-man/) _(Or A Speculative Sociology of Our Blockchain Future)_ and still processing what it means and with what parts I agree or disagree.  Instead of trying to analyze or summarize the whole document, I will list some of the sections and call out a couple of specific points I found interesting.
 

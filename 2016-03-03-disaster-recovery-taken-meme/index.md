@@ -1,9 +1,9 @@
 ---
 title: Disaster Recovery Taken Meme
-slug: disaster-recovery-taken-meme
+slug: /2016-03-03-disaster-recovery-taken-meme
 author: Kevin Hakanson
 date: 2016-03-03
-tags: ["random","disaster recovery"]
+tags: ["random", "disasterrecovery"]
 ---
 In a review of the technology goals, it was reinforced that products "will test DR" which triggered a flashback to Liam Neeson's speech from the 2008 movie [Taken](http://www.imdb.com/title/tt0936501/).
 

@@ -1,9 +1,9 @@
 ---
 title: 2025 Customer Challenge Demo Experience
-slug: 2025-customer-challenge-demo-experience
+slug: /2015-10-28-2025-customer-challenge-demo-experience
 author: Kevin Hakanson
 date: 2015-10-28
-tags: ["innovation","speech interfaces","javascript"]
+tags: ["innovation", "vui", "javascript"]
 ---
 For my company's **2025 Customer Challenge**, my finalist pitch included a live demo.  Teams were allowed 3 minutes of pitch time, and I allocated about 30 seconds for this demo.  Things didn't go exactly as planned, but they did work out in the end. Why take the risk of a live demo?  Because my mentor, said it would be "awesome" - and he was right.
 

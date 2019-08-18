@@ -1,9 +1,9 @@
 ---
 title: Finding all AWS Services my Team is Using
-slug: finding-all-aws-services-my-team-is-using
+slug: /2019-01-11-finding-all-aws-services-my-team-is-using
 author: Kevin Hakanson
 date: 2019-01-11
-tags: ["aws","python","aws iam"]
+tags: ["aws", "python", "iam"]
 ---
 I was reading [Automate analyzing your permissions using IAM access advisor APIs | AWS Security Blog](https://aws.amazon.com/blogs/security/automate-analyzing-permissions-using-iam-access-advisor/) and realized it would also be way see what AWS features one of my project teams (a.k.a. redacted-project) was using.
 

@@ -1,9 +1,9 @@
 ---
 title: "Microservices: An application revolution powered by the cloud"
-slug: microservices-an-application-revolution-powered-by-the-cloud
+slug: /2016-03-25-microservices-an-application-revolution-powered-by-the-cloud
 author: Kevin Hakanson
 date: 2016-03-25
-tags: ["microservices"]
+tags: ["microservices", "architecture"]
 ---
 Good article and video interview explaining microservices and container technologies by Mark Russinovich, the CTO of Azure.  Most of the information is cloud provider neutral and explains the transition from a monolithic application model to microservices architecture.
 

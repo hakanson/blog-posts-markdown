@@ -1,9 +1,9 @@
 ---
 title: ECMAScript Internationalization API Specification
-slug: ecmascript-internationalization-api-specification
+slug: /2013-07-08-ecmascript-internationalization-api-specification
 author: Kevin Hakanson
 date: 2013-07-08
-tags: ["javascript"]
+tags: ["javascript", "i18n", "webdev"]
 ---
 I recently downloaded and installed Windows 8.1 Preview to take a look at IE 11 Preview and check out the new "web standards" based features.  One of these standards supported is [Ecma-402](http://ecma-international.org/publications/standards/Ecma-402.htm) or the [ECMAScript Internationalization API Specification](http://www.ecma-international.org/ecma-402/1.0/) (see [Internet Explorer Standards Support Documents](http://msdn.microsoft.com/en-us/library/ff405926(v=vs.85).aspx) for the full list).  If you don't want to read through the specification, [Norbert's Corner](http://norbertlindenberg.com/2012/12/ecmascript-internationalization-api/) has a December 2012 article explaining the API.
 

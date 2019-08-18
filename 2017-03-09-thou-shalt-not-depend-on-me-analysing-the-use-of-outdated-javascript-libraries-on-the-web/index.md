@@ -1,9 +1,9 @@
 ---
 title: "Thou shalt not depend on me: analysing the use of outdated JavaScript libraries on the web"
-slug: thou-shalt-not-depend-on-me-analysing-the-use-of-outdated-javascript-libraries-on-the-web
+slug: /2017-03-09-thou-shalt-not-depend-on-me-analysing-the-use-of-outdated-javascript-libraries-on-the-web
 author: Kevin Hakanson
 date: 2017-03-09
-tags: ["javascript","information security"]
+tags: ["javascript", "security"]
 ---
 If you aren't scared about JavaScript libraries and security, you will be after reading [Thou shalt not depend on me: analysing the use of outdated JavaScript libraries on the web](https://blog.acolyer.org/2017/03/07/thou-shalt-not-depend-on-me-analysing-the-use-of-outdated-javascript-libraries-on-the-web/), which is a summary of [http://www.ccs.neu.edu/home/arshad/publications/ndss2017jslibs.pdf](http://www.ccs.neu.edu/home/arshad/publications/ndss2017jslibs.pdf).
 

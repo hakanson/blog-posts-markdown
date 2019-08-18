@@ -1,9 +1,9 @@
 ---
 title: Hindi Number Formatting in JavaScript
-slug: hindi-number-formatting-in-javascript
+slug: /2014-10-07-hindi-number-formatting-in-javascript
 author: Kevin Hakanson
 date: 2014-10-07
-tags: ["javascript","i18n"]
+tags: ["javascript", "i18n"]
 ---
 For a project I am consulting on, we were looking at globalization topics in the browser, including support for Hindi.  I have mostly worked with Latin based character sets in my internationalization efforts, so I wanted to dig into the topic a bit.  I started with my favorite date for test cases and thought I would see how various JavaScript libraries/frameworks handled the formatting.  Testing was done in Chrome 37.
 

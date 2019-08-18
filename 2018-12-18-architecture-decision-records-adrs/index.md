@@ -1,9 +1,9 @@
 ---
 title: Architecture Decision Records (ADRs)
-slug: architecture-decision-records-adrs
+slug: /2018-12-18-architecture-decision-records-adrs
 author: Kevin Hakanson
 date: 2018-12-18
-tags: ["architecture","agile"]
+tags: ["architecture", "agile"]
 ---
 Recently, I was asked to do an architecture review on a couple of projects - one was just getting started, and the other was a PoC demoed at a user conference.  Unfortunately, as with too many "agile" projects, existing architecture documentation could fit on a post-it note.
 

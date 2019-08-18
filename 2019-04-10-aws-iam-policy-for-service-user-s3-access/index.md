@@ -1,9 +1,9 @@
 ---
 title: AWS IAM Policy for Service User S3 Access
-slug: aws-iam-policy-for-service-user-s3-access
+slug: /2019-04-10-aws-iam-policy-for-service-user-s3-access
 author: Kevin Hakanson
 date: 2019-04-10
-tags: ["aws","aws iam"]
+tags: ["aws", "iam", "s3"]
 ---
 As a "security custodian" for some of my company's AWS accounts, I review requests for what we call "service users," including the AWS IAM Policy documents attached to those users. I prefer these to meet the [Principle of least privilege](https://en.wikipedia.org/wiki/Principle_of_least_privilege) but demand they are not overly aggressive.   Recently, I received this proposed policy:
 

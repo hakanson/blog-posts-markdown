@@ -1,9 +1,9 @@
 ---
 title: "Amazon Load Balancers: X-Forwarded Headers and Proxy Protocol Support"
-slug: amazon-load-balancers-x-forwarded-headers-and-proxy-protocol-support
+slug: /2018-03-15-amazon-load-balancers-x-forwarded-headers-and-proxy-protocol-support
 author: Kevin Hakanson
 date: 2018-03-15
-tags: ["aws","http"]
+tags: ["aws", "http", "networking"]
 ---
 Amazon has multiple [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/) products:
 

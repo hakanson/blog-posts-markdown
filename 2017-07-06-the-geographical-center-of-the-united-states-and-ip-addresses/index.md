@@ -1,9 +1,9 @@
 ---
 title: The Geographical Center of the United States and IP Addresses
-slug: the-geographical-center-of-the-united-states-and-ip-addresses
+slug: /2017-07-06-the-geographical-center-of-the-united-states-and-ip-addresses
 author: Kevin Hakanson
 date: 2017-07-06
-tags: ["gis"]
+tags: ["random", , "networking"]
 ---
 Do you remember [Internet mapping turned a remote farm into a digital hell | Fusion](http://fusion.net/story/287592/internet-mapping-glitch-kansas-farm/)? Some summary points from the article:
 

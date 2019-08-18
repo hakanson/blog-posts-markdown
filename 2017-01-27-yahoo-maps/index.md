@@ -1,6 +1,6 @@
 ---
 title: Yahoo Maps?
-slug: yahoo-maps
+slug: /2017-01-27-yahoo-maps
 author: Kevin Hakanson
 date: 2017-01-27
 tags: ["random"]

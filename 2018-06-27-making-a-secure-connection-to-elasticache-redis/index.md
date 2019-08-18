@@ -1,9 +1,9 @@
 ---
 title: Making a secure connection to ElastiCache (Redis)
-slug: making-a-secure-connection-to-elasticache-redis
+slug: /2018-06-27-making-a-secure-connection-to-elasticache-redis
 author: Kevin Hakanson
 date: 2018-06-27
-tags: ["aws","redis","information security"]
+tags: ["aws", "redis", "security", "networking"]
 ---
 In [Redis Security Investigation](../2018-06-22-redis-security-investigation), I recommended enabling both Encryption in-transit and Redis Auth.  Below is an ElastiCache Redis server I created to test against.  Note that instead of port 6379, I specified 6380 (which seems to be the common Redis "SSL" port).
 

@@ -1,9 +1,9 @@
 ---
 title: Goodbye Oracle Java 8; Hello Amazon Corretto 8
-slug: goodbye-oracle-java-8-hello-amazon-corretto-8
+slug: /2019-04-22-goodbye-oracle-java-8-hello-amazon-corretto-8
 author: Kevin Hakanson
 date: 2019-04-22
-tags: ["java","macos","open source"]
+tags: ["opensource", "java", "macos"]
 ---
 Got the Oracle Java auto-update message on my Mac today, reminding me to "Remove" if installed for "commercial" use.
 

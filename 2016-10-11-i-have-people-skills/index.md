@@ -1,9 +1,9 @@
 ---
-title: "I have people skills"
-slug: i-have-people-skills
+title: \""I have people skills"\"
+slug: /2016-10-11-i-have-people-skills
 author: Kevin Hakanson
 date: 2016-10-11
-tags: ["people skills"]
+tags: ["career"]
 ---
 The other day, I ran across [Why "Relationship Workers" will replace "Knowledge Workers"](https://www.linkedin.com/pulse/why-relationship-workers-replace-knowledge-abhijit-bhaduri).  After only reading the title, my first humorous thought was this scene in Office Space.
 

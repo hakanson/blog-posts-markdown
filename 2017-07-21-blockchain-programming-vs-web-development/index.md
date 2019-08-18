@@ -1,6 +1,6 @@
 ---
 title: Blockchain Programming vs. Web Development
-slug: blockchain-programming-vs-web-development
+slug: /2017-07-21-blockchain-programming-vs-web-development
 author: Kevin Hakanson
 date: 2017-07-21
 tags: ["blockchain"]

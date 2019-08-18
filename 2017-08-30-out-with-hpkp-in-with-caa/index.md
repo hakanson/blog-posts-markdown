@@ -1,9 +1,9 @@
 ---
 title: Out with HPKP, in with CAA?
-slug: out-with-hpkp-in-with-caa
+slug: /2017-08-30-out-with-hpkp-in-with-caa
 author: Kevin Hakanson
 date: 2017-08-30
-tags: ["http","information security"]
+tags: ["http", "security"]
 ---
 I hadn't looked at HTTP Public Key Pinning (HPKP) in detail at until [Pokemon Go vs. Certificate Pinning](../2016-07-11-pokemon-go-vs-certificate-pinning), and later realized how bad things could get with [HPKP and RansomPKP](../2016-09-06-hpkp-and-ransompkp).  Now, as I read [I'm giving up on HPKP](https://scotthelme.co.uk/im-giving-up-on-hpkp/) from Scott Helme ([@Scott\_Helme](https://twitter.com/Scott_Helme)) I think I agree with this statement:
 

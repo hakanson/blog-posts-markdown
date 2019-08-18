@@ -1,9 +1,9 @@
 ---
 title: "Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)"
-slug: amazon-dynamodb-deep-dive-advanced-design-patterns-for-dynamodb-dat401
+slug: /2018-12-04-amazon-dynamodb-deep-dive-advanced-design-patterns-for-dynamodb-dat401
 author: Kevin Hakanson
 date: 2018-12-04
-tags: ["aws","nosql"]
+tags: ["aws", "dynamodb", "nosql", "database"]
 ---
 Notes from watching [AWS re:Invent 2018: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401) - YouTube](https://www.youtube.com/watch?v=HaEPXoXVf2k) ([slides](https://www.slideshare.net/AmazonWebServices/amazon-dynamodb-deep-dive-advanced-design-patterns-for-dynamodb-dat401-aws-reinvent-2018pdf)).
 

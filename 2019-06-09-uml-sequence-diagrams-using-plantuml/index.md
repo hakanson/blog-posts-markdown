@@ -1,9 +1,9 @@
 ---
 title: UML Sequence Diagrams using PlantUML
-slug: uml-sequence-diagrams-using-plantuml
+slug: /2019-06-09-uml-sequence-diagrams-using-plantuml
 author: Kevin Hakanson
 date: 2019-06-09
-tags: ["uml","documentation"]
+tags: ["uml"]
 ---
 I've blogged before about text notation for UML Sequence Diagrams in [WebSequenceDiagrams notation](../2016-03-01-websequencediagrams-notation), but since we standardize on Lucidchart for diagrams, I found they have [UML Sequence Markup](https://lucidchart.zendesk.com/hc/en-us/articles/208029986) support as well.  However, Lucidchart's dialect looks to be based on [PlantUML](http://plantuml.com/index).  For a better summary that I can provide, take please read [Markdown native diagrams with PlantUML](https://blog.anoff.io/2018-07-31-diagrams-with-plantuml/).  I decided to spin up the PlantUML docker image and take a look:
 

@@ -1,9 +1,9 @@
 ---
 title: Amazon Elasticsearch Service and IAM Policies on HTTP Methods
-slug: amazon-elasticsearch-service-and-iam-policies-on-http-methods
+slug: /2017-06-25-amazon-elasticsearch-service-and-iam-policies-on-http-methods
 author: Kevin Hakanson
 date: 2017-06-25
-tags: ["aws","aws iam"]
+tags: ["aws", "iam", "elasticsearch"]
 ---
 The [Creating and Configuring Amazon Elasticsearch Service Domains](http://docs.aws.amazon.com/elasticsearch-service/latest/developerguide/es-createupdatedomains.html#es-createdomain-configure-access-policies) documentation shows the Elasticsearch HTTP methods could be controlled using IAM policies:
 

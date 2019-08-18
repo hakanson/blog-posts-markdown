@@ -1,9 +1,9 @@
 ---
 title: Web Browser Secure Contexts
-slug: web-browser-secure-contexts
+slug: /2017-02-14-web-browser-secure-contexts
 author: Kevin Hakanson
 date: 2017-02-14
-tags: ["web","information security"]
+tags: ["webdev", "security"]
 ---
 > **HTTPS - it isn't just for ~~breakfast~~ authentication anymore.**
 

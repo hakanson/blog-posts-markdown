@@ -1,9 +1,9 @@
 ---
 title: "\"Persistent URL\" and \"Link Resolver\" as Industry Terminology"
-slug: persistent-url-and-link-resolver-as-industry-terminology
+slug: /2013-11-16-persistent-url-and-link-resolver-as-industry-terminology
 author: Kevin Hakanson
 date: 2013-11-16
-tags: ["web"]
+tags: ["webdev", "architecture"]
 ---
 An internal project was using the name "link resolver" so I was looking for string matches and found one in the Wikipedia [OpenURL](http://en.wikipedia.org/wiki/Openurl) description:
 
@@ -25,4 +25,4 @@ The [DOI® System and Internet Identifier Specifications](http://www.doi.org/fac
 >
 > RFC 3986 requires that the terms URL and URN be deprecated. This brings a uniformity to the technical treatment of all URIs; however the risk of confusion remains
 
-This project should also be aware of forward looking efforts on Linked Data, including a [URI and URL standard Proposal](https://thehub.thomsonreuters.com/docs/DOC-594460) - this doesn't affect our deliverables in that we need to support existing URLs and their formats, but may affect us in the terminology used in how we describe our project.
+This project should also be aware of forward looking efforts on Linked Data, but this doesn't affect our deliverables in that we need to support existing URLs and their formats, but may affect us in the terminology used in how we describe our project.

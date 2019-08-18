@@ -1,9 +1,9 @@
 ---
 title: Creating and Using an AWS Virtual MFA Device with the AWS SDK for Python
-slug: creating-and-using-an-aws-virtual-mfa-device-with-the-aws-sdk-for-python
+slug: /2017-10-21-creating-and-using-an-aws-virtual-mfa-device-with-the-aws-sdk-for-python
 author: Kevin Hakanson
 date: 2017-10-21
-tags: ["aws","python","aws sdk","aws iam","information security"]
+tags: ["aws", "sdk", "python", "iam", "mfa", "security"]
 ---
 Some scenarios, like on-premise servers that need access to AWS resources, require AWS IAM Users to be created.  These "service users" are given Access Keys, which serve as long term credentials and needed to be protected.  An additional measure of protection could be to enable programmatic multifactor authentication for these users.
 

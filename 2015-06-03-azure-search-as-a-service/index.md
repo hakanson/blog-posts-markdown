@@ -1,9 +1,9 @@
 ---
-title: Azure "Search-as-a-Service"
-slug: azure-search-as-a-service
+title: "Azure \"Search-as-a-Service\""
+slug: /2015-06-03-azure-search-as-a-service
 author: Kevin Hakanson
 date: 2015-06-03
-tags: ["azure","search"]
+tags: ["azure", "search", "nlp"]
 ---
 Microsoft [Azure Search](http://azure.microsoft.com/en-us/services/search/) became generally available in March.  To learn more, I watched some of the [videos](https://azure.microsoft.com/en-us/documentation/videos/index/?services=search), including:
 

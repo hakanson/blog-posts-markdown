@@ -1,8 +1,9 @@
 ---
 title: JSON-LD is an official Web Standard
-slug: json-ld-is-an-official-web-standard
+slug: /2014-01-17-json-ld-is-an-official-web-standard
 author: Kevin Hakanson
 date: 2014-01-17
+tags: ["architecture"]
 ---
 Saw a link to [JSON-LD is an official Web Standard](http://semanticweb.com/j-son-ld-official-web-standard_b41441) on Twitter - took me a bit to realize LD was Linked Data.  I could see this being useful in our REST APIs that return JSON.
 

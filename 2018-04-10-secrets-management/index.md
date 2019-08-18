@@ -1,9 +1,9 @@
 ---
 title: Secrets Management
-slug: secrets-management
+slug: /2018-04-10-secrets-management
 author: Kevin Hakanson
 date: 2018-04-10
-tags: ["podcasts","information security"]
+tags: ["security", "podcast"]
 ---
 I recently listened to Software Engineering Radio [Episode 311: Armon Dadgar on Secrets Management](http://www.se-radio.net/2017/12/se-radio-episode-311-armon-dadgar-on-secrets-management/) from December 5, 2017
 

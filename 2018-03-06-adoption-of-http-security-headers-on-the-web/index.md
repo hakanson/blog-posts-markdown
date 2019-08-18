@@ -1,9 +1,9 @@
 ---
 title: Adoption of HTTP Security Headers on the Web
-slug: adoption-of-http-security-headers-on-the-web
+slug: /2018-03-06-adoption-of-http-security-headers-on-the-web
 author: Kevin Hakanson
 date: 2018-03-06
-tags: ["http","information security"]
+tags: ["http", "security"]
 ---
 [Adoption of HTTP Security Headers on the Web](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) looked at HTTP Archive data to do some analysis of the adoption of various HTTP security headers.  Here is a summary table of usage.
 

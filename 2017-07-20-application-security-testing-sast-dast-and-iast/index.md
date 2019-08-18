@@ -1,9 +1,9 @@
 ---
 title: "Application Security Testing: SAST, DAST, and IAST"
-slug: application-security-testing-sast-dast-and-iast
+slug: /2017-07-20-application-security-testing-sast-dast-and-iast
 author: Kevin Hakanson
 date: 2017-07-20
-tags: ["information security"]
+tags: ["security", "codequality"]
 ---
 Definitions from [Magic Quadrant for Application Security Testing](https://www.utest.com/articles/magic-quadrant-for-application-security-testing) 
 

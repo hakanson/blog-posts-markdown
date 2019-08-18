@@ -1,6 +1,6 @@
 ---
 title: WebSequenceDiagrams Notation
-slug: websequencediagrams-notation
+slug: /2016-03-01-websequencediagrams-notation
 author: Kevin Hakanson
 date: 2016-03-01
 tags: ["uml", "documentation"]

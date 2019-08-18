@@ -1,9 +1,9 @@
 ---
 title: Global Search Box as Question Answering
-slug: global-search-box-as-question-answering
+slug: /2015-06-01-global-search-box-as-question-answering
 author: Kevin Hakanson
 date: 2015-06-01
-tags: ["search","natural language processing"]
+tags: ["search", "ux", "nlp"]
 ---
 During a product design session, we had a discussion on Global Search covering "what search is" and "what search should be."  I used the following example of question answering as where I see "global search" heading:
 

@@ -1,6 +1,6 @@
 ---
 title: "DevOps and the Myth of Efficiency"
-slug: devops-and-the-myth-of-efficiency
+slug: /2015-12-22-devops-and-the-myth-of-efficiency
 author: Kevin Hakanson
 date: 2015-12-22
 tags: ["devops"]

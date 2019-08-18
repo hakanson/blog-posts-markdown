@@ -1,9 +1,9 @@
 ---
 title: "My First Published Alexa Skill: Mars Rover Mission"
-slug: my-first-published-alexa-skill-mars-rover-mission
+slug: /2016-12-21-my-first-published-alexa-skill-mars-rover-mission
 author: Kevin Hakanson
 date: 2016-12-21
-tags: ["alexa","javascript"]
+tags: ["alexa", "javascript", "vui", "conference"]
 ---
 While attending AWS re:Invent 2016, I participated in the [AWS re:Invent Alexa Skill Contest](https://www.hackster.io/contests/alexa-reinvent).  I didn't win the $10,000 grand prize but was one of the finalists. See [Crowning the New Amazon Alexa Champ at AWS re:Invent](https://medium.com/capital-one-developers/crowning-the-new-amazon-alexa-champ-at-aws-re-invent-85a55479fabf#.w1oqsrnyf) for a recap of the contest.  Mars Rover Mission is an adventure game where you control a Mars exploration rover. It is slow-paced in that you can only take one turn per day exploring the Martian surface.
 

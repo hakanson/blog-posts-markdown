@@ -1,9 +1,9 @@
 ---
 title: "CloudFront and Disaster Recovery: Part 2"
-slug: cloudfront-and-disaster-recovery-part-2
+slug: /2018-11-21-cloudfront-and-disaster-recovery-part-2
 author: Kevin Hakanson
 date: 2018-11-21
-tags: ["aws","cloudfront","disaster recovery"]
+tags: ["aws", "cloudfront", "disasterrecovery"]
 ---
 Last year I wrote [CloudFront and Disaster Recovery](../2017-12-12-cloudfront-and-disaster-recovery) based on the ability to use Lambda@Edge to "generate HTTP responses when CloudFront viewer request or origin request events occur."
 

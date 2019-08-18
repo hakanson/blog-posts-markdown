@@ -1,9 +1,9 @@
 ---
 title: Authenticated Encryption with the AWS CLI
-slug: authenticated-encryption-with-the-aws-cli
+slug: /2017-06-28-authenticated-encryption-with-the-aws-cli
 author: Kevin Hakanson
 date: 2017-06-28
-tags: ["aws","aws cli","encryption"]
+tags: ["aws", "cli", "encryption"]
 ---
 I wanted to understand [Authenticated Encryption](http://docs.aws.amazon.com/kms/latest/developerguide/crypto_authen.html) better, so I thought I would try and learn interactively.  First, I saved some "sensitive" data into a file.
 

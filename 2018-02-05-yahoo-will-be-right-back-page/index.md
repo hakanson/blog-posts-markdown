@@ -1,9 +1,9 @@
 ---
 title: YAHOO! "Will be right back..." page
-slug: yahoo-will-be-right-back-page
+slug: /2018-02-05-yahoo-will-be-right-back-page
 author: Kevin Hakanson
 date: 2018-02-05
-tags: ["web","disaster recovery"]
+tags: ["random", "webdev", "disasterrecovery", "architecture"]
 ---
 Today in an Architecture Strategy and Planning meeting, we were talking about a "Maintenance Mode" page that would indicate when our application was down (for planned or unplanned outages).  As fate would have it, I happened to see the YAHOO! version of this page moments later and was able to take a screenshot.
 

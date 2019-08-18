@@ -1,8 +1,9 @@
 ---
 title: You can’t escape encoding
-slug: you-cant-escape-encoding
+slug: /2009-07-06-you-cant-escape-encoding
 author: Kevin Hakanson
 date: 2009-07-06
+tags: ["webdev"]
 ---
 Recently I have run across several items where the solution to the problem was a proper understanding of encoding and escaping.  One issue was with the [YUICompressor](http://developer.yahoo.com/yui/compressor/) having problems with some of our JavaScript files.  The core issue was that it couldn't handle files saved in UTF-8 with the Byte Order Mark (which is the Visual Studio 2008 default).  Lucky for someone, I was able to answer a [Stack Overflow question](http://stackoverflow.com/questions/1036201/errors-using-yuicompressor/1047143#1047143) with my new found knowledge.
 

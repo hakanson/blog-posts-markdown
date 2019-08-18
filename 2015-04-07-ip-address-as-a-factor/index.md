@@ -1,9 +1,9 @@
 ---
 title: IP Address as a factor?
-slug: ip-address-as-a-factor
+slug: /2015-04-07-ip-address-as-a-factor
 author: Kevin Hakanson
 date: 2015-04-07
-tags: ["information security"]
+tags: ["security", "networking"]
 ---
 On a call we "discussed" if IP address could be considered a second factor, including the spoof-ability of IPs.
 

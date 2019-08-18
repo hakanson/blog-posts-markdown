@@ -1,9 +1,9 @@
 ---
 title: HPKP and RansomPKP
-slug: hpkp-and-ransompkp
+slug: /2016-09-06-hpkp-and-ransompkp
 author: Kevin Hakanson
 date: 2016-09-06
-tags: ["http","information security"]
+tags: ["http", "security", "webdev"]
 ---
 In [Pokemon Go vs. Certificate Pinning](../2016-07-11-pokemon-go-vs-certificate-pinning) I explored [RFC 7469 - Public Key Pinning Extension for HTTP](https://tools.ietf.org/html/rfc7469) and the HPKP header.  This looked like something that was complicated to implement if you didn't have a very mature key management process that already knew about future certificates' public keys.  I was a little scared, since I could see a scenario where someone sets this header without completely thinking it through - and locks out paying customers from accessing our products.
 

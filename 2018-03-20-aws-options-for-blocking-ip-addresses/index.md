@@ -1,9 +1,9 @@
 ---
 title: AWS Options for Blocking IP Addresses
-slug: aws-options-for-blocking-ip-addresses
+slug: /2018-03-20-aws-options-for-blocking-ip-addresses
 author: Kevin Hakanson
 date: 2018-03-20
-tags: ["aws","information security"]
+tags: ["aws", "security", "networking"]
 ---
 While diving into BIG-IP iRules code researching [HTTP to HTTPS Redirection](../2018-03-13-http-to-https-redirection), I ran across this snippet:
 

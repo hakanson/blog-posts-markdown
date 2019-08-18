@@ -1,9 +1,9 @@
 ---
 title: Zipkin JS Investigation
-slug: zipkin-js-investigation
+slug: /2016-06-10-zipkin-js-investigation
 author: Kevin Hakanson
 date: 2016-06-10
-tags: ["javascript","api"]
+tags: ["javascript", "api", "monitoring"]
 ---
 To better understand the concepts behind [Zipkin](http://zipkin.io/), I took a look at [Zipkin JS](https://github.com/openzipkin/zipkin-js) (a Zipkin instrumentation implementation for Node.js), including submitting [Pull Request #10](https://github.com/openzipkin/zipkin-js/pull/10) and [Issue #11](https://github.com/openzipkin/zipkin-js/issues/11) to that project.
 

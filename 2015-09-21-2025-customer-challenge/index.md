@@ -1,6 +1,6 @@
 ---
 title: 2025 Customer Challenge
-slug: 2025-customer-challenge
+slug: /2015-09-21-2025-customer-challenge
 author: Kevin Hakanson
 date: 2015-09-21
 tags: ["innovation"]

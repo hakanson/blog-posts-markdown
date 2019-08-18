@@ -1,9 +1,9 @@
 ---
 title: AWS WAF / AWS Shield for DDoS Protection
-slug: aws-waf-aws-shield-for-ddos-protection
+slug: /2018-08-31-aws-waf-aws-shield-for-ddos-protection
 author: Kevin Hakanson
 date: 2018-08-31
-tags: ["aws","waf","information security"]
+tags: ["aws", "waf", "security"]
 ---
 One of the [AWS Whitepapers](https://aws.amazon.com/whitepapers/#security) is the 30-page [AWS Best Practices for DDoS Resiliency (June 2018)](https://d1.awsstatic.com/whitepapers/Security/DDoS_White_Paper.pdf) which gives a overall summary of the topic as well as a good distinction where AWS Shield and AWS WAF fit.
 

@@ -1,9 +1,9 @@
 ---
 title: JavaScript Static Code Analysis?
-slug: javascript-static-code-analysis
+slug: /2014-11-19-javascript-static-code-analysis
 author: Kevin Hakanson
 date: 2014-11-19
-tags: ["javascript","information security"]
+tags: ["javascript", "security", "codequality"]
 ---
 My company's "Application Security Testing Standard" requires assessing application code with Static Code Analysis or Dynamic Analysis.  The tools currently used for this are from [Veracode](http://www.veracode.com/products)
 

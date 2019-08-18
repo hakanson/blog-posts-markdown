@@ -1,9 +1,9 @@
 ---
 title: Reimagining Cobalt.js preferences in AngularJS using UML
-slug: reimagining-cobaltjs-preferences-in-angularjs-using-uml
+slug: /2014-07-31-reimagining-cobaltjs-preferences-in-angularjs-using-uml
 author: Kevin Hakanson
 date: 2014-07-31
-tags: ["javascript","architecture"]
+tags: ["javascript", "architecture", "uml"]
 ---
 Our 2008 era Cobalt.js JavaScript code looks a bit substandard compared to what we would write today: We used a common Cobalt object off the global namespace, convention based private variables/functions prefixed by `_`, and (gasp) synchronous XHR requests so our APIs could avoid callbacks.
 

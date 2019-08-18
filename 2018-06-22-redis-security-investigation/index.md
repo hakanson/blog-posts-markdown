@@ -1,9 +1,9 @@
 ---
 title: Redis Security Investigation
-slug: redis-security-investigation
+slug: /2018-06-22-redis-security-investigation
 author: Kevin Hakanson
 date: 2018-06-22
-tags: ["aws","redis","information security"]
+tags: ["aws", "redis", "security"]
 ---
 The Securing Redis section from the [Redis Quick Start](https://redis.io/topics/quickstart#securing-redis) stresses applying network level security (firewalls), the `requirepass` option ([AUTH](https://redis.io/commands/auth) command), and SSL tunneling.  Additional details can be found by reading [A few things about Redis security](http://antirez.com/news/96) and [Redis Security – Redis](https://redis.io/topics/security).
 

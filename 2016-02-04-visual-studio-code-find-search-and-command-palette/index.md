@@ -1,9 +1,9 @@
 ---
 title: "Visual Studio Code: Find, Search and Command Palette"
-slug: visual-studio-code-find-search-and-command-palette
+slug: /2016-02-04-visual-studio-code-find-search-and-command-palette
 author: Kevin Hakanson
 date: 2016-02-04
-tags: ["user experience","ide"]
+tags: ["vscode", "search", "ux"]
 ---
 I've started using [Visual Studio Code](https://code.visualstudio.com/) for my web projects because it is the right balance between IDE features and lightweight text editor, multi-platform, and [open source](https://github.com/Microsoft/vscode/). One interesting feature of Code is the lightweight program menu structure with many features exposed via a **Command Palette**.
 

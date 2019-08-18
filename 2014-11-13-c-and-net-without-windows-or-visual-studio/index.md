@@ -1,9 +1,9 @@
 ---
 title: C# and .NET without Windows or Visual Studio
-slug: c-and-net-without-windows-or-visual-studio
+slug: /2014-11-13-c-and-net-without-windows-or-visual-studio
 author: Kevin Hakanson
 date: 2014-11-13
-tags: ["c#", ".net", "open source"]
+tags: ["csharp", "dotnet", "opensource"]
 ---
 If you didn't hear about the open sourcing of .NET announced at Microsoft's Connect(); event, read [Microsoft takes .NET open source and cross-platform, adds new development capabilities with Visual Studio 2015, .NET 2015 and Visual Studio Online](http://news.microsoft.com/2014/11/12/microsoft-takes-net-open-source-and-cross-platform-adds-new-development-capabilities-with-visual-studio-2015-net-2015-and-visual-studio-online/) or [Announcing .NET 2015 - .NET as Open Source, .NET on Mac and Linux, and Visual Studio Community - Scott Hanselman](http://www.hanselman.com/blog/AnnouncingNET2015NETAsOpenSourceNETOnMacAndLinuxAndVisualStudioCommunity.aspx).
 

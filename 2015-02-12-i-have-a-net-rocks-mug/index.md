@@ -1,9 +1,9 @@
 ---
 title: I have a .NET Rocks! mug.
-slug: i-have-a-net-rocks-mug
+slug: /2015-02-12-i-have-a-net-rocks-mug
 author: Kevin Hakanson
 date: 2015-02-12
-tags: ["javascript","podcasts"]
+tags: ["random", "javascript", "podcast"]
 ---
 You may (or may not) have seen: [Kevin Hakanson on Twitter: "@richcampbell @jhusain great show; I especially liked the comment selected (thanks for the mug)](https://twitter.com/hakanson/status/565549181792972800)
 

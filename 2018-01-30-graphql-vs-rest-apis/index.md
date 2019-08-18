@@ -1,9 +1,9 @@
 ---
 title: GraphQL vs. REST APIs?
-slug: graphql-vs-rest-apis
+slug: /2018-01-30-graphql-vs-rest-apis
 author: Kevin Hakanson
 date: 2018-01-30
-tags: ["web","api"]
+tags: ["webdev", "api", "graphql"]
 ---
 I ran across [Understanding And Using REST APIs — Smashing Magazine](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/), which is an entry level article explaining REST APIs and uses the [GitHub API v3](https://developer.github.com/v3/) in its examples.
 

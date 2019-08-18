@@ -1,9 +1,9 @@
 ---
 title: Creating an AWS IAM Role for sts:AssumedRole
-slug: creating-an-aws-iam-role-for-stsassumedrole
+slug: /2017-05-15-creating-an-aws-iam-role-for-stsassumedrole
 author: Kevin Hakanson
 date: 2017-05-15
-tags: ["aws","aws iam"]
+tags: ["aws", "iam", "cli"]
 ---
 This post is a research summary of tasks relating to creating an IAM role via the CLI:
 

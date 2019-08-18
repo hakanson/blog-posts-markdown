@@ -1,9 +1,9 @@
 ---
 title: Monotonic Time in JavaScript
-slug: monotonic-time-in-javascript
+slug: /2017-02-15-monotonic-time-in-javascript
 author: Kevin Hakanson
 date: 2017-02-15
-tags: ["aws","javascript"]
+tags: ["aws", "xray", "javascript", "monitoring"]
 ---
 I was looking at the source code for [The AWS X-Ray SDK for Node.js](http://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-nodejs.html) and saw these code snippets:
 

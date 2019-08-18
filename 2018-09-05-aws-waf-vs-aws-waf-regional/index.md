@@ -1,9 +1,9 @@
 ---
 title: AWS WAF vs AWS WAF Regional
-slug: aws-waf-vs-aws-waf-regional
+slug: /2018-09-05-aws-waf-vs-aws-waf-regional
 author: Kevin Hakanson
 date: 2018-09-05
-tags: ["aws","waf","information security"]
+tags: ["aws", "waf", "security"]
 ---
 [Welcome - AWS WAF](https://docs.aws.amazon.com/waf/latest/APIReference/Welcome.html) lists separate API references for AWS WAF and AWS WAF Regional.  AWS WAF is "available for protecting Amazon CloudFront distributions" and AWSWAF Regional is "available for protecting Application Load Balancers."  These APIs are almost identical, except for Web ACL management:
 

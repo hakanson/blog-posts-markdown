@@ -1,9 +1,9 @@
 ---
 title: SATURN 2013 Software Architecture Conference
-slug: saturn-2013-software-architecture-conference
+slug: /2013-05-13-saturn-2013-software-architecture-conference
 author: Kevin Hakanson
-date: 2012-02-01
-tags: ["conference"]
+date: 2013-05-13
+tags: ["architecture", "conference"]
 ---
 The Software Engineering Institute (SEI) Architecture Technology User Network (SATURN) Conference took place at the Marriott City Center in Minneapolis, Minnesota from April 29 to May 3, 2013.  I attended the keynotes and sessions on May 1 and 2.  It was a mix of practicing software architects, developers, managers, and academics.
 

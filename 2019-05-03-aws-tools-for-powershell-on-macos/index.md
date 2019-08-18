@@ -1,9 +1,9 @@
 ---
 title: AWS Tools for PowerShell on macOS
-slug: aws-tools-for-powershell-on-macos
+slug: /2019-05-03-aws-tools-for-powershell-on-macos
 author: Kevin Hakanson
 date: 2019-05-03
-tags: ["aws","macos","powershell"]
+tags: ["aws", "powershell", "macos"]
 ---
 Since you can never have too many command lines and shells, today I thought about [Installing PowerShell Core on macOS](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-core-on-macos?view=powershell-6).
 

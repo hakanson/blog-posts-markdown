@@ -1,9 +1,9 @@
 ---
 title: Capital One Cloud Custodian "Test Drive"
-slug: capital-one-cloud-custodian-test-drive
+slug: /2017-07-05-capital-one-cloud-custodian-test-drive
 author: Kevin Hakanson
 date: 2017-07-05
-tags: ["aws","python","automation","information security"]
+tags: ["aws", "python", "devops", "security"]
 ---
 I've mentioned [capitalone/cloud-custodian: Rules engine for AWS management](https://github.com/capitalone/cloud-custodian) before but hadn't taken it for a "test drive" yet.
 

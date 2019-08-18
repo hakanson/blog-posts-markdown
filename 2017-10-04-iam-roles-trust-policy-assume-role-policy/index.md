@@ -1,9 +1,9 @@
 ---
 title: "IAM Roles: \"trust policy\" == \"assume role policy\""
-slug: iam-roles-trust-policy-assume-role-policy
+slug: /2017-10-04-iam-roles-trust-policy-assume-role-policy
 author: Kevin Hakanson
 date: 2017-10-04
-tags: ["aws","aws iam"]
+tags: ["aws", "iam"]
 ---
 Take a look at the screenshot below.  What's the name of this policy?
 

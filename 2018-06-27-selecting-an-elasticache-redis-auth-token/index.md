@@ -1,9 +1,9 @@
 ---
 title: Selecting an ElastiCache (Redis) AUTH token
-slug: selecting-an-elasticache-redis-auth-token
+slug: /2018-06-27-selecting-an-elasticache-redis-auth-token
 author: Kevin Hakanson
 date: 2018-06-27
-tags: ["aws","redis","information security"]
+tags: ["aws", "secretsmanager", "redis", "security"]
 ---
 [Redis Security](https://redis.io/topics/security) highlights some items about selecting an AUTH token (password).
 

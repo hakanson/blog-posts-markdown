@@ -1,9 +1,9 @@
 ---
 title: HTTP to HTTPS Redirection Investigation
-slug: http-to-https-redirection-investigation
+slug: /2018-03-13-http-to-https-redirection-investigation
 author: Kevin Hakanson
 date: 2018-03-13
-tags: ["http","web","information security"]
+tags: ["http", "webdev", "security"]
 ---
 The recent efforts related to [Google and Mozilla are Deprecating Existing Symantec Certificates](https://blog.qualys.com/ssllabs/2017/09/26/google-and-mozilla-deprecating-existing-symantec-certificates) had me revisit another HTTPS topic:  HTTP to HTTPS Redirection.
 

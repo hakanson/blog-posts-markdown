@@ -1,9 +1,9 @@
 ---
 title: Side-channel attacking browsers through CSS3 features
-slug: side-channel-attacking-browsers-through-css3-features
+slug: /2018-06-02-side-channel-attacking-browsers-through-css3-features
 author: Kevin Hakanson
 date: 2018-06-02
-tags: ["web","information security"]
+tags: ["webdev", "css", "security"]
 ---
 Some people don't like CSS because it's not a "real" programing language like JavaScript; other people use CSS to exfiltrate data.
 

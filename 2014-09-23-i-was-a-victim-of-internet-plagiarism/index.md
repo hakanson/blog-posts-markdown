@@ -1,8 +1,9 @@
 ---
 title: I was a victim of internet plagiarism
-slug: i-was-a-victim-of-internet-plagiarism
+slug: /2014-09-23-i-was-a-victim-of-internet-plagiarism
 author: Kevin Hakanson
 date: 2014-09-23
+tags: ["random", "i18n"]
 ---
 I often present at developer-focused conferences and user groups on JavaScript and web platform topics.  One presentation I give is on JavaScript Internationalization (initially at the 2013 [MSP Technology Unconference](https://thehub.thomsonreuters.com/groups/eagan-technology-unconference) and most recently this summer at [That Conference](https://www.thatconference.com/sessions/session/2235)).  My title and abstract are below.
 

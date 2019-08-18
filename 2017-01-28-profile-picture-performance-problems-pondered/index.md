@@ -1,9 +1,9 @@
 ---
 title: Profile Picture Performance Problems Pondered
-slug: profile-picture-performance-problems-pondered
+slug: /2017-01-28-profile-picture-performance-problems-pondered
 author: Kevin Hakanson
 date: 2017-01-28
-tags: ["caching","http","web"]
+tags: ["webdev", "ux", "caching"]
 ---
 In researching browser component UX timings for a project, I found some a slow requests. Here is the likely culprit:
 

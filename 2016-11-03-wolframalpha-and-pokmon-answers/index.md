@@ -1,9 +1,9 @@
 ---
 title: Wolfram|Alpha and Pokémon Answers
-slug: wolframalpha-and-pokmon-answers
+slug: /2016-11-03-wolframalpha-and-pokmon-answers
 author: Kevin Hakanson
 date: 2016-11-03
-tags: ["random","natural language processing","pokemon"]
+tags: ["random", "nlp", "pokemon"]
 ---
 The other day, my daughter had me search for [zigzagoon](https://www.wolframalpha.com/input/?i=zigzagoon) on [Wolfram|Alpha: Computational Knowledge Engine](https://www.wolframalpha.com/).  Apparently, there is a full Pokédex loaded because it knew details like number, type, size, and generation.
 

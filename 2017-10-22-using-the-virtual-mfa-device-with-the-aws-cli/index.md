@@ -1,9 +1,9 @@
 ---
 title: Using the Virtual MFA Device with the AWS CLI
-slug: using-the-virtual-mfa-device-with-the-aws-cli
+slug: /2017-10-22-using-the-virtual-mfa-device-with-the-aws-cli
 author: Kevin Hakanson
 date: 2017-10-22
-tags: ["aws","aws cli","aws iam","information security"]
+tags: ["aws", "cli", "iam", "mfa", "security"]
 ---
 In [Creating and Using an AWS Virtual MFA Device with the AWS SDK for Python](../2017-10-21-creating-and-using-an-aws-virtual-mfa-device-with-python), some Python code was used to add a Virtual MFA Device to IAM User `kjh-SuperDuperUser` as well as use that to call [`STS.Client.assume_role`](http://boto3.readthedocs.io/en/latest/reference/services/sts.html#STS.Client.assume_role).  This document uses the AWS CLI to call [`assume-role`](http://docs.aws.amazon.com/cli/latest/reference/sts/assume-role.html) using the Virtual MFA Device.
 

@@ -1,9 +1,9 @@
 ---
 title: CLI SAML Authentication and AWS STS assume-role
-slug: cli-saml-authentication-and-aws-sts-assume-role
+slug: /2017-03-02-cli-saml-authentication-and-aws-sts-assume-role
 author: Kevin Hakanson
 date: 2017-03-02
-tags: ["aws","aws iam"]
+tags: ["aws", "iam", "cli"]
 ---
 When I run a CLI based SAML log in (using an internal tool), I can select from the roles available to my account (e.g., PowerUser or ReadOnly).  I think of these as user roles.  However, IAM roles can also be created and assigned to EC2 instances or Lambda functions.  I was trying to understand how local code could run under one of those specific IAM roles.  I decided to try out [assume-role — AWS CLI 1.11.56 Command Reference](http://docs.aws.amazon.com/cli/latest/reference/sts/assume-role.html):
 

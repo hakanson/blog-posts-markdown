@@ -1,9 +1,9 @@
 ---
 title: Investigating CloudTrail for S3 PutBucketNotification
-slug: investigating-cloudtrail-for-s3-putbucketnotification
+slug: /2016-08-22-investigating-cloudtrail-for-s3-putbucketnotification
 author: Kevin Hakanson
 date: 2016-08-22
-tags: ["aws","cloudtrail"]
+tags: ["aws", "cloudtrail", "s3"]
 ---
 I was investigating the types of CloudTrail events that are available for S3.  However, when I was comparing [Services Supported by CloudTrail API Activity History](http://docs.aws.amazon.com/awscloudtrail/latest/userguide/view-cloudtrail-events-supported-services.html#view-cloudtrail-events-supported-apis-s3) against the [s3api — AWS CLI 1.10.58 Command Reference](http://docs.aws.amazon.com/cli/latest/reference/s3api/), I noticed something that confused me.
 

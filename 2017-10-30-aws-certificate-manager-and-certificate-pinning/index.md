@@ -1,9 +1,9 @@
 ---
 title: AWS Certificate Manager and Certificate Pinning
-slug: aws-certificate-manager-and-certificate-pinning
+slug: /2017-10-30-aws-certificate-manager-and-certificate-pinning
 author: Kevin Hakanson
 date: 2017-10-30
-tags: ["aws","http","information security"]
+tags: ["aws", "http", "security"]
 ---
 As a background, please review [Out with HPKP, in with CAA?](../2017-08-30-out-with-hpkp-in-with-caa) to re-familiarize yourself with HTTP Public Key Pinning (HPKP) and Certificate Authority Authorization (CAA).
 

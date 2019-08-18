@@ -1,9 +1,9 @@
 ---
 title: Smaller and faster data compression with Zstandard
-slug: smaller-and-faster-data-compression-with-zstandard
+slug: /2016-09-01-smaller-and-faster-data-compression-with-zstandard
 author: Kevin Hakanson
 date: 2016-09-01
-tags: ["web"]
+tags: ["webdev"]
 ---
 I saw this post from Facebook on their new open source compression algorithm: [Smaller and faster data compression with Zstandard | Engineering Blog | Facebook Code](https://code.facebook.com/posts/1658392934479273).
 

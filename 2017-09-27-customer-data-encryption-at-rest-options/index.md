@@ -1,9 +1,9 @@
 ---
 title: Customer Data Encryption-At-Rest Options
-slug: customer-data-encryption-at-rest-options
+slug: /2017-09-27-customer-data-encryption-at-rest-options
 author: Kevin Hakanson
 date: 2017-09-27
-tags: ["aws", "encryption", "information security"]
+tags: ["aws", "encryption", "security"]
 ---
 This post is going to enumerate some customer data encryption-at-rest options for those customers asking about specific key management choices.  Examples below will refer to AWS specific technologies.
 

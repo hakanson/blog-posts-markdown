@@ -1,9 +1,9 @@
 ---
 title: DataDog APM Tracing HTTP Headers
-slug: datadog-apm-tracing-http-headers
+slug: /2017-08-07-datadog-apm-tracing-http-headers
 author: Kevin Hakanson
 date: 2017-08-07
-tags: ["api"]
+tags: ["http", "monitoring"]
 ---
 **Update:** Might be obsolete based on [Datadog + OpenTracing: Embracing the open standard for APM](https://www.datadoghq.com/blog/opentracing-datadog-cncf/) from December 6, 2017
 

@@ -1,9 +1,9 @@
 ---
 title: Introduction to Speech Interfaces for Web Applications
-slug: introduction-to-speech-interfaces-for-web-applications
+slug: /2016-05-03-introduction-to-speech-interfaces-for-web-applications
 author: Kevin Hakanson
 date: 2016-05-03
-tags: ["web","speech interfaces"]
+tags: ["webdev", "vui", "conference"]
 ---
 Since the [2025 Customer Challenge](../2015-09-21-2025-customer-challenge) last fall, I have been interested in the current state of speech interfaces, especially how they could be exposed to browser-based web applications.  I put some of my research into presentation format and presented [Introduction to Speech Interfaces for Web Applications](http://www.slideshare.net/kevinhakanson/introduction-to-speech-interfaces-for-web-applications) at both [Twin Cities Code Camp](http://twincitiescodecamp.com/) and [MinneBar](http://minnestar.org/minnebar/) in April.  Here's the abstract:
 

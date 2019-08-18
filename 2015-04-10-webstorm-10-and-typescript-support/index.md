@@ -1,9 +1,9 @@
 ---
 title: WebStorm 10 and TypeScript support
-slug: webstorm-10-and-typescript-support
+slug: /2015-04-10-webstorm-10-and-typescript-support
 author: Kevin Hakanson
 date: 2015-04-10
-tags: ["javascript","typescript", "ide"]
+tags: ["javascript", "typescript", "webdev"]
 ---
 WebStorm 10 now has updated [TypeScript support](https://www.jetbrains.com/webstorm/whatsnew/#typescript) including a built-in TypeScript 1.4 compiler with TypeScript 1.5 support already in the WebStorm 10.0.2 EAP.  To test this out, I opened a simple, sample project where I was playing with JavaScript decimal libraries to understand how certain compiler errors are reported.
 

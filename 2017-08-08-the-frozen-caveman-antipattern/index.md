@@ -1,9 +1,9 @@
 ---
 title: The Frozen Caveman Antipattern
-slug: the-frozen-caveman-antipattern
+slug: /2017-08-08-the-frozen-caveman-antipattern
 author: Kevin Hakanson
 date: 2017-08-08
-tags: ["architect"]
+tags: ["career"]
 ---
 That "clickbait" headline is a reference to [Unfrozen Caveman Lawyer](https://en.wikipedia.org/wiki/Unfrozen_Caveman_Lawyer) and based on my favorite part of [nealford.com • Knowledge Breadth versus Depth](http://nealford.com/memeagora/2015/09/08/knowledge-breadth-versus-depth.html).  However, the most relevant part is the lead up to this pyramid, which illustrates "enhanced breadth and shrinking depth for the architect role."
 

@@ -1,9 +1,9 @@
 ---
 title: Chrome Dev Summit 2015 Notes
-slug: chrome-dev-summit-2015-notes
+slug: /2015-12-09-chrome-dev-summit-2015-notes
 author: Kevin Hakanson
 date: 2015-12-09
-tags: ["web"]
+tags: ["webdev"]
 ---
 [Chrome Dev Summit 2015 Notes](https://danoc.me/blog/chrome-dev-summit-2015-notes/) is a summary by Daniel O'Connor of the presentations from the Chrome Dev Summit 2015, along with links to the videos.  The term "RAIL" appeared in many of the session titles and is defined below:
 

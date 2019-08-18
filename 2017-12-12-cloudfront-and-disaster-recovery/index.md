@@ -1,9 +1,9 @@
 ---
 title: CloudFront and Disaster Recovery
-slug: cloudfront-and-disaster-recovery
+slug: /2017-12-12-cloudfront-and-disaster-recovery
 author: Kevin Hakanson
 date: 2017-12-12
-tags: ["aws","cloudfront","disaster recovery"]
+tags: ["aws", "cloudfront", "disasterrecovery"]
 ---
 _Note:  If you need a refresher on CloudFront, start with [What Is Amazon CloudFront?](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html)_
 
