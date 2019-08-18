@@ -35,6 +35,6 @@ Even more exciting to me was that since I have Visual Studio Code support for bo
     deactivate c
     ```
 
-[![UML Sequence Diagram](images/ROtD2i8m3CVlUOgmUq5s73AO-Y9f6gLOkj9c4z_Uhe9iu2daz_zIhq6GAGIyX_bL404IPVNi4qL5GYhOJTGTg6tqOe-K6xtoaRf6Rwu383FQ0SixydSHWLZzIYfemJRHHqnvPYcbMJOwyb0h_eMuFcnQhZ_rE35BKd6RvMnCfLbqoH5N2ejKwcItnsPq0rhYvoFFItI_tUhR9E3QKSyknF01.svg "call flows")](images/ROtD2i8m3CVlUOgmUq5s73AO-Y9f6gLOkj9c4z_Uhe9iu2daz_zIhq6GAGIyX_bL404IPVNi4qL5GYhOJTGTg6tqOe-K6xtoaRf6Rwu383FQ0SixydSHWLZzIYfemJRHHqnvPYcbMJOwyb0h_eMuFcnQhZ_rE35BKd6RvMnCfLbqoH5N2ejKwcItnsPq0rhYvoFFItI_tUhR9E3QKSyknF01.svg)
+[![UML Sequence Diagram](images/callflows.svg "call flows")](images/callflows.svg)
 
 Later, I am going to think about the best way to check in this text-based UML next to our source code.  I haven't figured out if the rendered images should be checked in as well, generated as part of a build, or just viewed as part of a markdown preview.

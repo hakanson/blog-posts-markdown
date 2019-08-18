@@ -5,7 +5,7 @@ author: Kevin Hakanson
 date: 2016-07-20
 tags: ["javascript","api"]
 ---
-The continuing story from my [Zipkin JS Investigation](../2016-07-11-zipkin-js-investigation)
+The continuing story from my [Zipkin JS Investigation](../2016-06-10-zipkin-js-investigation)
 
 My zipkin-js [issue](https://github.com/openzipkin/zipkin-js/issues/15) was fixed a couple days ago when [zipkin-js/packages/zipkin-transport-http](https://github.com/openzipkin/zipkin-js/tree/master/packages/zipkin-transport-http) landed, so I decided to revisit my test project and see how it works.
 
