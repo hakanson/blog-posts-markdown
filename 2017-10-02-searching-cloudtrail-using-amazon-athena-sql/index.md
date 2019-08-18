@@ -3,7 +3,7 @@ title: Searching CloudTrail using Amazon Athena SQL
 slug: /2017-10-02-searching-cloudtrail-using-amazon-athena-sql
 author: Kevin Hakanson
 date: 2017-10-02
-tags: ["aws", "cloudtrain", "athena", "sql"]
+tags: ["aws", "cloudtrail", "athena", "sql"]
 ---
 I was querying CloudTrail event history for a specific user, `projectID-AppUser`, and it only listed two events when I knew there were more. The AWS Console had a message explaining why:
 

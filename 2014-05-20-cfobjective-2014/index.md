@@ -3,7 +3,7 @@ title: cf.Objective() 2014
 slug: /2014-05-20-cfobjective-2014
 author: Kevin Hakanson
 date: 2014-05-20
-tags: ["javscript", "security", "conference"]
+tags: ["javascript", "encryption", "security", "conference"]
 ---
 Last week I was a [speaker](http://www.cfobjective.com/speakers/kevin-hakanson/) at [cf.Objective() 2014: The World's Only Enterprise ColdFusion Conference](http://www.cfobjective.com/), giving my [Developer's Guide to JavaScript and Web Cryptography](http://www.cfobjective.com/sessions/developers-guide-to-javascript-and-web-cryptography/) presentation.  It took place May 13-16, 2014 at the Radisson Blu - Mall of America, Bloomington, MN.  Session organizers were looking for more Front-End / Mobile / CSS sessions including **js.Objective()**, a full track dedicated to JavaScript topics.
 

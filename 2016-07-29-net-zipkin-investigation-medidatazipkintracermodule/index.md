@@ -3,7 +3,7 @@ title: .NET Zipkin Investigation (Medidata.ZipkinTracerModule)
 slug: /2016-07-29-net-zipkin-investigation-medidatazipkintracermodule
 author: Kevin Hakanson
 date: 2016-07-29
-tags: ["api", "dotnet", "monitoring"]
+tags: ["dotnet", "api", "monitoring"]
 ---
 [Medidata.ZipkinTracerModule](https://github.com/mdsol/Medidata.ZipkinTracerModule) is a "A .NET implementation of the Zipkin Tracer client."  I built a simple Web Api 2 service, similar to the code from the [Zipkin JS Investigation](../2016-06-10-zipkin-js-investigation).  The service recursively calls itself base on the count parameter:  (e.g., `http://localhost:52399/api/hello?count=3`).
 

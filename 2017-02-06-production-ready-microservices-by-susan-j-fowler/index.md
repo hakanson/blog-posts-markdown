@@ -3,7 +3,7 @@ title: Production-Ready Microservices by Susan J. Fowler
 slug: /2017-02-06-production-ready-microservices-by-susan-j-fowler
 author: Kevin Hakanson
 date: 2017-02-06
-tags: ["microservice", "architecture"]
+tags: ["microservices", "architecture"]
 ---
 I saw this book review on Twitter today:  [Production-Ready Microservices: Building Standardized Systems Across An Engineering Organization By Susan J. Fowler](https://www.bennadel.com/blog/3222-production-ready-microservices-building-standardized-systems-across-an-engineering-organization-by-susan-j-fowler.htm) 
 
