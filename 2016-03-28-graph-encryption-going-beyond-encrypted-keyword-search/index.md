@@ -1,5 +1,5 @@
 ---
-title: Graph Encryption: Going Beyond Encrypted Keyword Search
+title: "Graph Encryption: Going Beyond Encrypted Keyword Search"
 slug: graph-encryption-going-beyond-encrypted-keyword-search
 author: Kevin Hakanson
 date: 2016-03-28

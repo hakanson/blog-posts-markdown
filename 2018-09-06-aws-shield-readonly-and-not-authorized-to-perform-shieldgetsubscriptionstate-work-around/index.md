@@ -1,5 +1,5 @@
 ---
-title: AWS Shield, ReadOnly, and "not authorized to perform: shield:GetSubscriptionState" work-around
+title: "AWS Shield, ReadOnly, and \"not authorized to perform: shield:GetSubscriptionState\" work-around"
 slug: aws-shield-readonly-and-not-authorized-to-perform-shieldgetsubscriptionstate-work-around
 author: Kevin Hakanson
 date: 2018-09-06

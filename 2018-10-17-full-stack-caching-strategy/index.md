@@ -1,5 +1,5 @@
 ---
-title: "Full Stack" Caching Strategy
+title: "\"Full Stack\" Caching Strategy"
 slug: full-stack-caching-strategy
 author: Kevin Hakanson
 date: 2018-10-17

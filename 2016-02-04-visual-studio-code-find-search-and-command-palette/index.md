@@ -1,5 +1,5 @@
 ---
-title: Visual Studio Code: Find, Search and Command Palette
+title: "Visual Studio Code: Find, Search and Command Palette"
 slug: visual-studio-code-find-search-and-command-palette
 author: Kevin Hakanson
 date: 2016-02-04

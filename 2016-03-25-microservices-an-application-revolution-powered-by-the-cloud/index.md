@@ -1,5 +1,5 @@
 ---
-title: Microservices: An application revolution powered by the cloud
+title: "Microservices: An application revolution powered by the cloud"
 slug: microservices-an-application-revolution-powered-by-the-cloud
 author: Kevin Hakanson
 date: 2016-03-25

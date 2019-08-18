@@ -1,5 +1,5 @@
 ---
-title: CloudFront and Disaster Recovery: Part 2
+title: "CloudFront and Disaster Recovery: Part 2"
 slug: cloudfront-and-disaster-recovery-part-2
 author: Kevin Hakanson
 date: 2018-11-21

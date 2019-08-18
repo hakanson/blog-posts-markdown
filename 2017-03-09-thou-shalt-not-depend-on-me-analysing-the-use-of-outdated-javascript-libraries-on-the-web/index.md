@@ -1,5 +1,5 @@
 ---
-title: Thou shalt not depend on me: analysing the use of outdated JavaScript libraries on the web
+title: "Thou shalt not depend on me: analysing the use of outdated JavaScript libraries on the web"
 slug: thou-shalt-not-depend-on-me-analysing-the-use-of-outdated-javascript-libraries-on-the-web
 author: Kevin Hakanson
 date: 2017-03-09

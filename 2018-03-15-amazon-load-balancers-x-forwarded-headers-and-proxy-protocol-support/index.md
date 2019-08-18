@@ -1,5 +1,5 @@
 ---
-title: Amazon Load Balancers: X-Forwarded Headers and Proxy Protocol Support
+title: "Amazon Load Balancers: X-Forwarded Headers and Proxy Protocol Support"
 slug: amazon-load-balancers-x-forwarded-headers-and-proxy-protocol-support
 author: Kevin Hakanson
 date: 2018-03-15

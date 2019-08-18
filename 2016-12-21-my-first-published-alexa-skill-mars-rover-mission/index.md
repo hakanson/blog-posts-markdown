@@ -1,5 +1,5 @@
 ---
-title: My First Published Alexa Skill: Mars Rover Mission
+title: "My First Published Alexa Skill: Mars Rover Mission"
 slug: my-first-published-alexa-skill-mars-rover-mission
 author: Kevin Hakanson
 date: 2016-12-21

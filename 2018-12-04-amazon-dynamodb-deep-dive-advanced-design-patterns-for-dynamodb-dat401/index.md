@@ -1,5 +1,5 @@
 ---
-title: Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)
+title: "Amazon DynamoDB Deep Dive: Advanced Design Patterns for DynamoDB (DAT401)"
 slug: amazon-dynamodb-deep-dive-advanced-design-patterns-for-dynamodb-dat401
 author: Kevin Hakanson
 date: 2018-12-04

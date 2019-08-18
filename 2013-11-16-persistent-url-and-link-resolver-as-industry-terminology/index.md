@@ -1,5 +1,5 @@
 ---
-title: "Persistent URL" and "Link Resolver" as Industry Terminology"
+title: "\"Persistent URL\" and \"Link Resolver\" as Industry Terminology"
 slug: persistent-url-and-link-resolver-as-industry-terminology
 author: Kevin Hakanson
 date: 2013-11-16

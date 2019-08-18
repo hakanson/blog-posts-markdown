@@ -1,5 +1,5 @@
 ---
-title: "Hacked" by Baiduspider and YandexMetrika
+title: "\"Hacked\" by Baiduspider and YandexMetrika"
 slug: hacked-by-baiduspider-and-yandexmetrika
 author: Kevin Hakanson
 date: 2017-01-13

@@ -1,5 +1,5 @@
 ---
-title: IAM Roles: "trust policy" == "assume role policy"
+title: "IAM Roles: \"trust policy\" == \"assume role policy\""
 slug: iam-roles-trust-policy-assume-role-policy
 author: Kevin Hakanson
 date: 2017-10-04

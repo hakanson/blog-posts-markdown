@@ -1,5 +1,5 @@
 ---
-title: "Access Logs" from AWS Services
+title: "\"Access Logs\" from AWS Services"
 slug: access-logs-from-aws-services
 author: Kevin Hakanson
 date: 2018-03-08

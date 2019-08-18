@@ -1,5 +1,5 @@
 ---
-title: Application Security Testing: SAST, DAST, and IAST
+title: "Application Security Testing: SAST, DAST, and IAST"
 slug: application-security-testing-sast-dast-and-iast
 author: Kevin Hakanson
 date: 2017-07-20
