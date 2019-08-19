@@ -11,4 +11,4 @@ As newer products are dealing more with uploaded user content than just searchin
 
 Here is a snippet of the upload speed section of the report.  
 
-[![A615EBF8-2900-46E3-95F9-37A18EDD1D1C.png](./images/A615EBF8-2900-46E3-95F9-37A18EDD1D1C.png)](./images//A615EBF8-2900-46E3-95F9-37A18EDD1D1C.png)
+![Broadband Speed Test](./images/A615EBF8-2900-46E3-95F9-37A18EDD1D1C.png)

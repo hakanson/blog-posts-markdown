@@ -7,7 +7,7 @@ tags: ["aws", "iam"]
 ---
 Take a look at the screenshot below.  What's the name of this policy?
 
-[!["Trust relationships" tab](images/pastedImage_4.png)](images/pastedImage_4.png)
+!["Trust relationships" tab](images/pastedImage_4.png)
 
 If you said "trust relationships policy" or "trusted entities policy" then good luck finding the API to update it, where it is called the "assume role policy" document. Just to show how confusing the terms are, take this example from [update-assume-role-policy — AWS CLI 1.11.164 Command Reference](http://docs.aws.amazon.com/cli/latest/reference/iam/update-assume-role-policy.html):
 

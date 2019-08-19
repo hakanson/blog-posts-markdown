@@ -12,4 +12,4 @@ In a review of the technology goals, it was reinforced that products "will test 
 
 So I created a internet style meme to represent that if we don't test DR, someone will do it for us. Enjoy!
 
-[![DR Taken Meme](images/DR+Taken+Meme.png)](images/DR+Taken+Meme.png)
+![DR Taken Meme](images/DR+Taken+Meme.png)

@@ -31,7 +31,7 @@ app.use(AWSXRay.express.closeSegment());
 
 Looking on the X-Ray Console, here is a screenshot of the result of calling: `http://dev-env.3tp23hiz9p.us-east-1.elasticbeanstalk.com/?count=3`.  I have also included the [raw JSON data](images/1-587c35e2-c21cf7e73003b660d10e33ea.json.zip) for this trace.
 
-[![X-Ray Trace Timeline](images/pastedImage_6.png)](images/pastedImage_6.png)
+![X-Ray Trace Timeline](images/pastedImage_6.png)
 
 Amazon uses the **X-Amzn-Trace-Id** HTTP header with **Root** and **Parent** segments for carrying trace ids (see [Request Tracing for Your Application Load Balancer](http://docs.aws.amazon.com/elasticloadbalancing/latest/application/load-balancer-request-tracing.html) for syntax).  For example:
 

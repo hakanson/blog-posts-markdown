@@ -15,12 +15,12 @@ First read [The ultimate, 3500-word, plain English guide to blockchain](https:/
 
 Then read [Your ultimate guide to the upcoming fork that's splitting the Bitcoin community](https://thenextweb.com/contributors/2017/07/24/ultimate-guide-upcoming-fork-thats-splitting-bitcoin-community/) and compare the SegWit fork (favored by users) against the SegWit2 fork (favored by miners).
 
-[![](images/pastedImage_3.png)](images/pastedImage_3.png)
+![](images/pastedImage_3.png)
 
 If you buy into the argument that only those "with enough money to upgrade their computation power" will survive, then it seems like this could be the first step for a "51% Attack" on Bitcoin by state-level actors?
 
-[![](images/pastedImage_2.png)](images/pastedImage_2.png)
+![](images/pastedImage_2.png)
 
 Alternatively, maybe I watched too much [The Lone Gunmen](http://www.imdb.com/title/tt0243069/).
 
-[![The Lone Gunmen](images/1220268.jpeg)](images/1220268.jpeg)
+![The Lone Gunmen](images/1220268.jpeg)

@@ -7,7 +7,7 @@ tags: ["career"]
 ---
 That "clickbait" headline is a reference to [Unfrozen Caveman Lawyer](https://en.wikipedia.org/wiki/Unfrozen_Caveman_Lawyer) and based on my favorite part of [nealford.com • Knowledge Breadth versus Depth](http://nealford.com/memeagora/2015/09/08/knowledge-breadth-versus-depth.html).  However, the most relevant part is the lead up to this pyramid, which illustrates "enhanced breadth and shrinking depth for the architect role."
 
-[![](images/pastedImage_5.png)](images/pastedImage_5.png)
+![](images/pastedImage_5.png)
 
 From the article (slightly reformatted):
 
@@ -20,4 +20,4 @@ As I have been spending more time on "cloud" and "security" topics, I feel my "f
 
 Anyone else concerned with being classified a "Frozen Caveman?"
 
-[![Frozen Caveman Lawyer](images/1238985.jpeg)](images/1238985.jpeg)
+![Frozen Caveman Lawyer](images/1238985.jpeg)

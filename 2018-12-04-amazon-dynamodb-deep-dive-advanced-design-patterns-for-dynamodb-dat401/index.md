@@ -14,9 +14,9 @@ A presentation worth watching to understand building DynamoDB solutions better.
 * At some point DynamoDB Streams are mentioned, which are a feed of all data writes, and can be used by lambda to do aggregation functions and pre-compute results.
     * [DynamoDB Streams Use Cases and Design Patterns | AWS Database Blog](https://aws.amazon.com/blogs/database/dynamodb-streams-use-cases-and-design-patterns/) 
 * About 43 minutes into the video as he talks transaction apis and you should almost always use just 1 table - take a look at this Schema - which I has to pause and study
-    * [![](images/pastedImage_2.png)](images/pastedImage_2.png)
+    * ![](images/pastedImage_2.png)
 * Table at 56:38 is an interesting artifact for a complex data modeling scenario that started a couple minutes before
-    * [![](images/pastedImage_3.png)](images/pastedImage_3.png)
+    * ![](images/pastedImage_3.png)
 * [Best Practices for DynamoDB - Amazon DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/best-practices.html)
 * Conclusions Slide:
     * NoSQL does not mean non-relational

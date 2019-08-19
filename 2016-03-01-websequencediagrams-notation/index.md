@@ -9,7 +9,7 @@ tags: ["uml"]
 
 **Image:**
 
-[![call flows](  images/call+flows.png)](  images/call+flows.png)
+![call flows](  images/call+flows.png)
 
 **Source:**
 

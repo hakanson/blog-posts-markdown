@@ -9,9 +9,9 @@ tags: ["api"]
 
 The "Inside-out" vs. "Outside-in" perspective is analogous to how developers used to build UIs, but we now utilize a Central UX: Experience Design & Research team to focus on the user (vs. the feature).
 
-[!["Inside-out" - service provider view](images/pastedImage_2.png)](images/pastedImage_2.png)
+!["Inside-out" - service provider view](images/pastedImage_2.png)
 
-[!["Outside-in" - digital consumer view](images/pastedImage_3.png)](imagespastedImage_3.png)
+!["Outside-in" - digital consumer view](images/pastedImage_3.png)
 
 APIs serve different purposes, and your internal APIs might not be the SDKs or “experience APIs” the external developer needs.
 
@@ -19,6 +19,6 @@ APIs serve different purposes, and your internal APIs might not be the SDKs or �
 * APIs as interactions (e.g. Mobile or Partners)
 * APIs as products (e.g. Devices)
 
-[![API layers](images/pastedImage_6.png)](images/pastedImage_6.png)
+![API layers](images/pastedImage_6.png)
 
 The "mediation layer" above is where an API Gateway fits in, and where many of the non-functional requirements can be addressed.

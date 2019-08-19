@@ -7,7 +7,7 @@ tags: ["aws", "cloud9", "iam"]
 ---
 A co-worker and I were investigating [AWS Cloud9](https://aws.amazon.com/cloud9/) and the ability to share environments.  However, when you do a **Window - Share...** from inside the environment, you get this dialog:
 
-[![](images/pastedImage_3.png)](images/pastedImage_3.png)
+![Cloud9 Dialog](images/pastedImage_3.png)
 
 However, we are not using IAM users, but roles assumed via SAML.
 

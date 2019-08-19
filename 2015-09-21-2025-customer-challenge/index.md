@@ -14,7 +14,7 @@ _What are the products, services and capabilities that these business profession
 
 The **Sign Up and Register** page required me to provide a team name and a logo; so I went for **Clippy.**
 
-[![clippy.png](images/clippy.png)](images/clippy.png)
+![clippy.png](images/clippy.png)
 
 When thinking of what technologies would be there in 2025 (10 years into the future), I started wondering what "staples" of technology were not around 10 years ago.  Below is a partial list I constructed.
 

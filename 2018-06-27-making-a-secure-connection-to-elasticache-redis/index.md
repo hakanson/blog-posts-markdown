@@ -7,7 +7,7 @@ tags: ["aws", "redis", "security", "networking"]
 ---
 In [Redis Security Investigation](../2018-06-22-redis-security-investigation), I recommended enabling both Encryption in-transit and Redis Auth.  Below is an ElastiCache Redis server I created to test against.  Note that instead of port 6379, I specified 6380 (which seems to be the common Redis "SSL" port).
 
-[![](Redis Cluster Information)](images/pastedImage_2.png)
+![](Redis Cluster Information)
 
 However, the `redis-cli` doesn't support encrypted connections so I had to install `stunnel` with help from [Using redis-cli with SSL/TLS | Compose Help](https://help.compose.com/docs/redis-and-redis-cli#section-using-redis-cli-with-ssltls) and [How to use redis-cli with Azure Redis Cache | Microsoft Docs](https://docs.microsoft.com/en-us/azure/redis-cache/cache-how-to-redis-cli-tool) to create my `stunnel.conf`.
 

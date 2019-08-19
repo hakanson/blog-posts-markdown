@@ -14,8 +14,8 @@ Do you remember [Internet mapping turned a remote farm into a digital hell | Fu
 
 Well, it looks like that is no longer the case: [This is the new digital center of the United States](http://fusion.kinja.com/this-is-the-new-digital-center-of-the-united-states-1793856143)
 
-[![](images/pastedImage_4.png)](images0/pastedImage_4.png)
+![](images/pastedImage_4.png)
 
 Maybe it was the result of a sign like this in Joyce Taylor's front yard.
 
-[![Go Jump in the Lake!](images/pastedImage_1.jpg)](images/pastedImage_1.jpg)
+![Go Jump in the Lake!](images/pastedImage_1.jpg)

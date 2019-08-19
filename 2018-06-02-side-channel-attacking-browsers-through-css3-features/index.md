@@ -13,4 +13,4 @@ Some people don't like CSS because it's not a "real" programing language like Ja
 > * We demonstrate the impact of this vulnerability by showing how visiting a malicious site was enough to de-anonymize Facebook users. In particular, exploitation allowed to leak the profile picture, username and likes of unsuspecting visitors all while requiring no additional user interaction.
 > * This vulnerability affected major browsers like Chrome and Firefox and was disclosed responsibly.
 
-[![Mix Blend Mode Side Channel](https://www.evonide.com/wp-content/uploads/2018/05/mix_blend_mode_side_channel.png)](https://www.evonide.com/wp-content/uploads/2018/05/mix_blend_mode_side_channel.png)
+![Mix Blend Mode Side Channel](https://www.evonide.com/wp-content/uploads/2018/05/mix_blend_mode_side_channel.png)

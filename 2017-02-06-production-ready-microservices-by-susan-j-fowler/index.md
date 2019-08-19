@@ -7,7 +7,7 @@ tags: ["microservices", "architecture"]
 ---
 I saw this book review on Twitter today:  [Production-Ready Microservices: Building Standardized Systems Across An Engineering Organization By Susan J. Fowler](https://www.bennadel.com/blog/3222-production-ready-microservices-building-standardized-systems-across-an-engineering-organization-by-susan-j-fowler.htm) 
 
-[![Production-Ready Microservices book cover](images/pastedImage_3.jpg)](images/pastedImage_3.jpg)
+![Production-Ready Microservices book cover](images/pastedImage_3.jpg)
 
 And when I saw it was an O'Reilly book, I knew I was be able to access it through Safari Books Online.  If the overview below looks interesting, check it out at [Production-Ready Microservices: Safari Books Online - Premium](http://techbus.safaribooksonline.com/book/software-engineering-and-development/9781491965962) 
 

@@ -7,7 +7,7 @@ tags: ["http", "security", "pokemon"]
 ---
 Saw this Tweet from [@notdan](https://twitter.com/notdan) about the [Pokémon Go](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/) video game and their lack of certificate pinning:
 
-[![@notdan Pokemon Go Tweet](images/pastedImage_9.png)](images/pastedImage_9.png)
+![@notdan Pokemon Go Tweet](images/pastedImage_9.png)
 
 At first, I thought "duh, of course, they should have" but then I realized that I need to understand [Certificate and Public Key Pinning](https://www.owasp.org/index.php/Certificate_and_Public_Key_Pinning) better.  I've known about [RFC 7469 - Public Key Pinning Extension for HTTP](https://tools.ietf.org/html/rfc7469) and the HPKP header for a while, but never implemented it for any web applications (where the browser does the check) nor for any mobile/desktop applications (where you need to code the check yourself).
 

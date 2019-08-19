@@ -13,4 +13,4 @@ Since the [2025 Customer Challenge](../2015-09-21-2025-customer-challenge) last 
 
 I thought it came together quite well, and I even have the [tweet](https://twitter.com/kboeckman/status/723957969176535040) from Kate Boeckman ([@kboeckman](https://twitter.com/kboeckman)) to prove it.
 
-[![Screen Shot 2016-05-03 at 9.17.47 AM.png](images/Screen+Shot+2016-05-03+at+9.17.47+AM.png)](images/Screen+Shot+2016-05-03+at+9.17.47+AM.png)
+![Screen Shot 2016-05-03 at 9.17.47 AM.png](images/Screen+Shot+2016-05-03+at+9.17.47+AM.png)

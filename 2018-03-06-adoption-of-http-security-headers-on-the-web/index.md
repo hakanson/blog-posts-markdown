@@ -7,7 +7,7 @@ tags: ["http", "security"]
 ---
 [Adoption of HTTP Security Headers on the Web](https://discuss.httparchive.org/t/adoption-of-http-security-headers-on-the-web/1259) looked at HTTP Archive data to do some analysis of the adoption of various HTTP security headers.  Here is a summary table of usage.
 
-[![% of Base Pages using HTTP Security Headers](images/pastedImage_4.png)](images/pastedImage_4.png)
+![% of Base Pages using HTTP Security Headers](images/pastedImage_4.png)
 
 The analysis deep dives into each header, and which values are being sent, including misconfigured / invalid variations.  The author ends with this conclusion:
 

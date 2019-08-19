@@ -38,4 +38,4 @@ Do you remember the leap second earlier this year? Do you also remember that thi
 
 So, not understanding that computer time can go backward causes bigger problems than invalid performance metrics. It makes me glad [The TARDIS](http://www.bbc.co.uk/programmes/profiles/5Dp7g7b0dSVhD2TM1xNlf7c/the-tardis) is a living consciousness and not written in either JavaScript or Go.
 
-[![TARDIS](images/pastedImage_1.jpg)](images/pastedImage_1.jpg)
+![TARDIS](images/pastedImage_1.jpg)

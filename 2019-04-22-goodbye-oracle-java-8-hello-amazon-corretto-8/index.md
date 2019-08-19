@@ -7,11 +7,11 @@ tags: ["opensource", "java", "macos"]
 ---
 Got the Oracle Java auto-update message on my Mac today, reminding me to "Remove" if installed for "commercial" use.
 
-[![](images/pastedImage_3.png)](images/pastedImage_3.png)
+![](images/pastedImage_3.png)
 
 So, I clicked remove and visited [https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/macos-install.html](https://docs.aws.amazon.com/corretto/latest/corretto-8-ug/macos-install.html) to install Amazon Corretto.
 
-[![](images/pastedImage_2.png)](images/pastedImage_2.png)
+![](images/pastedImage_2.png)
 
 After this, I still had some JVMs to clean up:
 

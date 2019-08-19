@@ -33,4 +33,4 @@ With this option, Thomson Reuters never sees unencrypted versions of data. Howev
 
 ## Diagram
 
-[![Encryption Options](images/EncryptionOptions.png)](images/EncryptionOptions.png)
+![Encryption Options](images/EncryptionOptions.png)

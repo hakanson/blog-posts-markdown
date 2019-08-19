@@ -7,7 +7,7 @@ tags: ["random"]
 ---
 The other day, I was having a Slack conversation with a co-worker when he replied "true" in agreement with a statement I was making.  My first instinct was to respond "Double True!" due to the [SNL Digital Short: Lazy Sunday](http://www.nbc.com/saturday-night-live/video/snl-digital-short-lazy-sunday/n12003?snl=1).
 
-[![Double True!](images/pastedImage_1.png)](images/pastedImage_1.png)
+![Double True!](images/pastedImage_1.png)
 
 Full lyrics for this December 2005 masterpiece can be found at [THE LONELY ISLAND LYRICS - Lazy Sunday](http://www.azlyrics.com/lyrics/lonelyisland/lazysunday.html), but the relevant lines are these:
 

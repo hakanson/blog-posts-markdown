@@ -32,8 +32,8 @@ $ docker run -d -p 9411:9411 openzipkin/zipkin
 
 ... ran my recursive service code, ...
 
-[![](images/pastedImage_24.png)](images/pastedImage_24.png)
+![](images/pastedImage_24.png)
 
 ... and looked in zipkin to see the result:
 
-[![](images/pastedImage_0.png)](images/pastedImage_0.png)
+![](images/pastedImage_0.png)

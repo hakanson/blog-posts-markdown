@@ -11,7 +11,7 @@ OK, so that's a dumb quote I just made up, until it's not.  Microservices do th
 
 How might a "full stack" caching strategy work?  Take a look at the representative diagram below:
 
-[![](images/pastedImage_5.png)](images/pastedImage_5.png)
+![](images/pastedImage_5.png)
 
 Let's start with the microservice and follow the response out.  How much of a response could benefit from a cache?  If it is partially built from of a query result, look at an external cache that works with your database.  If it is the entire HTTP response, look at something that works with your web server pipeline.  However, with all shared caches, think about security and privacy so you don't disclose one customer's data to another.  Some additional links:
 

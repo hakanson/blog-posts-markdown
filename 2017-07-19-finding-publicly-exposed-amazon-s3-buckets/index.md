@@ -50,4 +50,4 @@ $ aws support describe-trusted-advisor-check-result \
 
 However, that list has 2 items vs. the 1 which Cloud Custodian found using its global-grants filter.  It appears that Cloud Custodian is filtering out buckets set up for website hosting (see [Hosting a Static Website on Amazon S3](https://docs.aws.amazon.com/AmazonS3/latest/dev/WebsiteHosting.html)), which seems like a valid result.
 
-[![](images/pastedImage_140.png)](images/pastedImage_140.png)
+![](images/pastedImage_140.png)

@@ -13,12 +13,12 @@ What if you want that behavior today?  Below are the configurations to change 
 
 In Chrome go to `chrome://flags` and search for `mark-non-secure-as`
 
-[![](images/pastedImage_4.png)](images/pastedImage_4.png)
+![](images/pastedImage_4.png)
 
-[![](images/pastedImage_6.png)](images/pastedImage_6.png)
+![](images/pastedImage_6.png)
 
 In Firefox go to `about:config` and search for `security.insecure_connection`
 
-[![](images/pastedImage_5.png)](images/pastedImage_5.png)
+![](images/pastedImage_5.png)
 
-[![](images/pastedImage_7.png)](images/pastedImage_7.png)
+![](images/pastedImage_7.png)

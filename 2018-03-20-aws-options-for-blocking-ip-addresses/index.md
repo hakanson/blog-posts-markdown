@@ -39,7 +39,7 @@ This dynamically catches threats, but not necessary the IPs attacking our produc
 
 Amazon publishes solutions where Lambda functions monitor logs and automatically update AWS WAF rules.  One such solution is [Tutorial: Blocking IP Addresses That Submit Bad Requests](https://docs.aws.amazon.com/waf/latest/developerguide/tutorials-4xx-blocking.html).
 
-[![Blocking IP Addresses That Submit Bad Requests](images/pastedImage_1.png)](images/pastedImage_1.png)
+![Blocking IP Addresses That Submit Bad Requests](images/pastedImage_1.png)
 
 This type of solution is the most compelling, because it reacts to malicious traffic explicitly directed at our products.  It is also the most complex.
 

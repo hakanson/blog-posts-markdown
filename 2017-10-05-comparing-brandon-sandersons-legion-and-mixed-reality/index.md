@@ -21,4 +21,4 @@ Now compare these two scenarios.  To the observer, they may appear the same (i
 
 p.s.  I just realized that interacting with a virtual professional isn't new - Star Trek has already thought of everything.
 
-[![The Doctor from Star Trek: Voyager](images/89986-6390166Bk.jpg)](images/89986-6390166Bk.jpg)
+![The Doctor from Star Trek: Voyager](images/89986-6390166Bk.jpg)

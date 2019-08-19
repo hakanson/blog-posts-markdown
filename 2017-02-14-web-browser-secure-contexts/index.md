@@ -9,7 +9,7 @@ tags: ["webdev", "security"]
 
 Yeah, I stole that from a [Florida Orange Juice 1979 TV commercial](https://www.youtube.com/watch?v=7lhFNAYfxNg).
 
-[![Florida Orange Juice](images/pastedImage_3.jpg)](images/pastedImage_3.jpg)
+![Florida Orange Juice](images/pastedImage_3.jpg)
 
 So, what are [Secure Contexts](https://www.w3.org/TR/secure-contexts/) anyway? [Secure Contexts - Web security | MDN](https://developer.mozilla.org/en-US/docs/Web/Security/Secure_Contexts) provides full info, but some key points:
 

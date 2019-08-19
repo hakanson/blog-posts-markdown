@@ -7,7 +7,7 @@ tags: ["random", "webdev", "disasterrecovery", "architecture"]
 ---
 Today in an Architecture Strategy and Planning meeting, we were talking about a "Maintenance Mode" page that would indicate when our application was down (for planned or unplanned outages).  As fate would have it, I happened to see the YAHOO! version of this page moments later and was able to take a screenshot.
 
-[![YAHOO! Will be right back...](images/pastedImage_1.png)](images/pastedImage_1.png)
+![YAHOO! Will be right back...](images/pastedImage_1.png)
 
 The corresponding HTML source is an "interesting" read as it supports multiple hostnames and languages (English, Spanish).  It also generates a dynamic image src, likely as a "ping" to track information about affected users.
 

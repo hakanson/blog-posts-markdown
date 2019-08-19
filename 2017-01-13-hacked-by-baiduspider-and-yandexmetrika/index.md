@@ -7,7 +7,7 @@ tags: ["aws", "xray", "security", "monitoring"]
 ---
 Earlier this week, I was investigating the preview of [AWS X-Ray – Distributed Tracing System](https://aws.amazon.com/xray/) and got quite a scare.  After I deployed my sample app to [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/), I went into the AWS X-Ray Console to look at my trace data and saw more domain names listed than just the `dev-env.3tp23hiz9p.us-east-1.elasticbeanstalk.com` I was expecting - including at least one domain that is NSFW!
 
-[![X-Ray Service Map](images/Screen+Shot+2017-01-13+at+7.45.41+AM.png)](images/38-631167-1038205/Screen+Shot+2017-01-13+at+7.45.41+AM.png)
+![X-Ray Service Map](images/Screen+Shot+2017-01-13+at+7.45.41+AM.png)
 
 I got scared we had been hacked!  I started doing a nslookup on those domain names, trying to track down the IP address so I could find the EC2 instance and kill it.  All of these domains pointed to the same set of IPs and looked to be hosted by a company named wix.com that also uses AWS.
 
