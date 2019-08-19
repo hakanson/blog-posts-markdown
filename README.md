@@ -126,6 +126,7 @@ Raw blog posts formatted in markdown for future import into somewhere else.
 
 * [2018-01-30-graphql-vs-rest-apis](2018-01-30-graphql-vs-rest-apis/index.md) 
 * [2018-02-05-yahoo-will-be-right-back-page](2018-02-05-yahoo-will-be-right-back-page/index.md) 
+* [2018-02-07-referrer-policy-http-header](2018-02-07-referrer-policy-http-header/index.md) 
 * [2018-02-08-what-defines-a-known-open-source-vulnerability](2018-02-08-what-defines-a-known-open-source-vulnerability/index.md) 
 * [2018-02-09-marking-http-pages-as-not-secure](2018-02-09-marking-http-pages-as-not-secure/index.md) 
 * [2018-03-06-adoption-of-http-security-headers-on-the-web](2018-03-06-adoption-of-http-security-headers-on-the-web/index.md) 
