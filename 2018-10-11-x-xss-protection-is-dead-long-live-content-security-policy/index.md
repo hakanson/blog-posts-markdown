@@ -19,4 +19,4 @@ Now go back to [XSS protection disappears from Microsoft Edge](https://portswig
 >
 > “The only way to actually turn it on now is when you have the header `X-XSS-Protection: 1; mode=block`.”
 
-So, unless you are targeting IE11 (see [https://caniuse.com/#feat=contentsecuritypolicy](https://caniuse.com/#feat=contentsecuritypolicy)), it seems like it is time to embrace the [Content-Security-Policy HTTP Header](https://thehub.thomsonreuters.com/docs/DOC-2501378).
+So, unless you are targeting IE11 (see [https://caniuse.com/#feat=contentsecuritypolicy](https://caniuse.com/#feat=contentsecuritypolicy)), it seems like it is time to embrace the [Content-Security-Policy HTTP Header Braindump](../2018-04-27-content-security-policy-http-header-braindump).

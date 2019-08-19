@@ -15,5 +15,5 @@ The analysis deep dives into each header, and which values are being sent, inclu
 
 For additional reading, take a look at:
 
-* [Content-Security-Policy HTTP Header](https://thehub.thomsonreuters.com/docs/DOC-2501378) 
-* [Referrer-Policy HTTP header](https://thehub.thomsonreuters.com/docs/DOC-2501375) 
+* [Content-Security-Policy HTTP Header Braindump](../2018-04-27-content-security-policy-http-header-braindump)
+* [Referrer-Policy HTTP header](../2018-02-07-referrer-policy-http-header)

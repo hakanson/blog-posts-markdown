@@ -29,7 +29,7 @@ Similar to Managed Keys, the customer manages these keys in their AWS account 
 
 ## Pre Encryption
 
-With this option, Thomson Reuters never sees unencrypted versions of data. However, this results in significant functionality loss and treats applications like a raw data store.  Since no processing nor business value can be applied to the data, this has limited customer value as well.  This is an unlikely option.
+With this option, applications never sees unencrypted versions of data. However, this results in significant functionality loss and treats applications like a raw data store.  Since no processing nor business value can be applied to the data, this has limited customer value as well.  This is an unlikely option.
 
 ## Diagram
 

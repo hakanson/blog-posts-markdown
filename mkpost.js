@@ -11,16 +11,16 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2019-06-09";
-let title = "UML Sequence Diagrams using PlantUML";
+let date = "2018-02-07";
+let title = "Referrer-Policy HTTP header";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
-let hasImages = true;
+let hasImages = false;
 let tags = ["uml", "documentation"];
 
 let slug =  `---
 title: ${title}
-slug: ${slugTitle}
+slug: /${date}-${slugTitle}
 author: Kevin Hakanson
 date: ${date}
 tags: ${JSON.stringify(tags)}

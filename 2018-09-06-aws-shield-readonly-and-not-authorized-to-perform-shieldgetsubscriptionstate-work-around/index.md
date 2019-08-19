@@ -9,7 +9,7 @@ As a "ReadOnly" user, if you go to try and look at [https://console.aws.amazon.
 
 > Identity and Access Management (IAM) policies currently restrict your access to the console. Contact your AWS administrator if you need help. If you are an AWS administrator, see the [AWS WAF documentation](http://docs.aws.amazon.com/waf/latest/developerguide/waf-iam.html).  
 >
-> User: arn:aws:sts::123456789012:assumed-role/projectID-ReadOnly/kevin.hakanson@example.com is not authorized to perform: shield:GetSubscriptionState on resource: arn:aws:shield::829215188275:subscription/\*
+> User: arn:aws:sts::123456789012:assumed-role/projectID-ReadOnly/kevin.hakanson@example.com is not authorized to perform: shield:GetSubscriptionState on resource: arn:aws:shield::123456789012:subscription/\*
 
 Jump directly to the summary page with [https://console.aws.amazon.com/waf/home#/ddp/summary](https://console.aws.amazon.com/waf/home#/ddp/summary) 
 
