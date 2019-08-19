@@ -15,7 +15,7 @@ That reminded me of the [F5 BIG-IP iRule](https://devcentral.f5.com/wiki/iRules.
 
 Consider this active/passive solution where CloudFront sits in front of the "active" region:
 
-![](images/pastedImage_1.png)
+![AWS multi-region diagram](images/pastedImage_1.png)
 
 The product's DNS name points at the CloudFront distribution, and there you specify the name of the load balancer as your origin server.  This solution uses an ELB for that Web Distribution in the primary region. In the event of a disaster recovery cutover, that Web Distribution is updated to the name of the load balancer in the DR region. Contrast this with updating the products DNS entry to load balancer and waiting for TTL to pass.
 
@@ -29,6 +29,6 @@ For more background on CloudFront Custom Origins:
 
 However, you now might want to limit traffic flowing into the regional ELBs.  Luckily, [Restricting ELB access to CloudFront](https://medium.com/cagataygurturk/restricting-elb-access-to-cloudfront-8b0990dea69f) is possible.  Amazon publishes the [Locations and IP Address Ranges of CloudFront Edge Servers](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/LocationsOfEdgeServers.html) in a JSON file and changes appear as an SNS topic.  This allows a Security Group created to restrict to CloudFront IP ranges to be updated whenever Amazon updates those ranges.
 
-![](images/pastedImage_3.png)
+![Amazon SNS topic data flow](images/pastedImage_3.png)
 
 I'm sure that I am not the first person to consider this.  What do you think of using CloudFront as part of the Disaster Recovery cutover flow?

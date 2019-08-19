@@ -31,7 +31,7 @@ First, I created an IAM Role with a policy that allowed Get, Put, and Delete acc
 
 Then, I created an EC2 instance and assigned that IAM role:
 
-![](images/pastedImage_2.png)
+![IAM role and Key pair name](images/pastedImage_2.png)
 
 I connected to my instance over SSH...
 

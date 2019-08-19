@@ -7,7 +7,7 @@ tags: ["aws", "cloud9", "python"]
 ---
 The other week I had trouble creating an [AWS Cloud9](https://aws.amazon.com/cloud9/) environment, so I tried again today - and with success, because I actually met the requirements found at [VPC Settings for AWS Cloud9 Development Environments](https://docs.aws.amazon.com/cloud9/latest/user-guide/vpc-settings.html) and put the instance in a public subnet.  However, it created a Security Group with port 22 open to the internet - which I didn't like...
 
-![](images/pastedImage_3.png)
+![Security Group Inbound rules](images/pastedImage_3.png)
 
 ..and neither did an automated security process because within a minute it removed that rule - which was good for security, but bad for accessing the Cloud9 based environment.  However, there are instructions to limit to specific IPs.
 
@@ -15,7 +15,7 @@ The other week I had trouble creating an [AWS Cloud9](https://aws.amazon.com/clo
 
 I did that, and within seconds of saving, I was able to connect to my Cloud9 environment from the browser.
 
-![](images/pastedImage_4.png)
+![Security Group Inbound rules](images/pastedImage_4.png)
 
 I opened the Terminal window and tested what sort of AWS access I had.  The environment runs with my Federated Identity credentials.
 

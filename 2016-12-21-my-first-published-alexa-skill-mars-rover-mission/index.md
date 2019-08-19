@@ -13,7 +13,7 @@ At this point, I know you must be too excited to keep reading, so turn to your 
 
 Alternatively, enable Mars Rover Mission via the Alexa app or at [Amazon.com: Mars Rover Mission: Alexa Skills](https://www.amazon.com/dp/B01N002EZY).
 
-![](https://images-na.ssl-images-amazon.com/images/I/71k2KOc15YL.png)
+![Mars Rover](https://images-na.ssl-images-amazon.com/images/I/71k2KOc15YL.png)
 
 If you want more of the technical details (including links to the JavaScript [code](https://github.com/kjhsoftware/mars-rover-mission), how to cheat, and the [demo video](https://youtu.be/P4A-EMxqtuk) I recorded at 4 am), take a look at the project writeup:  [Mars Rover Mission: A slow paced adventure game. - Hackster.io](https://www.hackster.io/kevin-hakanson/mars-rover-mission-a-slow-paced-adventure-game-971ae2) 
 

@@ -7,7 +7,7 @@ tags: ["career"]
 ---
 The other day, I ran across [Why "Relationship Workers" will replace "Knowledge Workers"](https://www.linkedin.com/pulse/why-relationship-workers-replace-knowledge-abhijit-bhaduri).  After only reading the title, my first humorous thought was this scene in Office Space.
 
-![](images/pastedImage_13.png)
+![Office Space meme](images/pastedImage_13.png)
 
 But as I read the article, I understood the core premise. 
 
@@ -17,6 +17,6 @@ The author continues to talk about "transdisciplinary teams" and the value of "c
 
 > Those who can navigate complex human relationships with _empathy_ will be the most valuable workers in future.
 
-![](images/pastedImage_5.png)
+![Knowledge Worker sketch](images/pastedImage_5.png)
 
 Yesterday, I attended an internal DevOps Conference where the keynote covered similar topic areas of automation, complexity, and empathy.  At one point, he said that "purpose of \[middle\] management is communication" and highlighted that ability to connect people.

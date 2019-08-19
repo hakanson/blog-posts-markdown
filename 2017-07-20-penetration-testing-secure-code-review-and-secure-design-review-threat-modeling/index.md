@@ -13,7 +13,8 @@ tags: ["security", "codequality"]
 
 Tools can help some - Dynamic Analysis (DAST) for pen testing and Static Analysis (SAST) for code review - but don't catch everything.
 
-![](images/pastedImage_12.jpg)](imagespastedImage_12.jpg)[![](images/6-most-common-threat-modeling-misconceptions-4-638.jpg)
+![SAST vs DAST](images/pastedImage_12.jpg)
+![Security Defects Uncovered in Practice](images/6-most-common-threat-modeling-misconceptions-4-638.jpg)
 
 However, there aren't tools for secure design reviews, and this requires a subject matter expert (SME).  The threat modeling process involves documenting the architecture and diagraming the application to help to identify threats.  This same information would be needed by both secure code reviews and penetration testing later in the SDLC.
 

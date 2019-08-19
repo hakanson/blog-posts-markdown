@@ -99,11 +99,11 @@ But the browser shows App3 is secure, which can be explained by looking at the n
 
 In AWS, CloudFront supports a Redirect HTTP to HTTPS (see [Requiring HTTPS for Communication Between Viewers and CloudFront - Amazon CloudFront](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/using-https-viewers-to-cloudfront.html) )
 
-![](images/pastedImage_27.png)
+![Viewer Protocol Policy](images/pastedImage_27.png)
 
 AWS ELB requires you to configure this in your web server (see [Redirect HTTP Traffic to HTTPS Using ELB](https://aws.amazon.com/premiumsupport/knowledge-center/redirect-http-https-elb/) ) but ALB now supports redirects as an option on the HTTP listener.
 
-![](images/pastedImage_65.png)
+![ALB HTTP Listener settings](images/pastedImage_65.png)
 
 The Apache rewrite rule is below and would be the recommended approach for App3.
 

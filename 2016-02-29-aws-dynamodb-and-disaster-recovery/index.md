@@ -26,7 +26,7 @@ There is no "checkbox" for replication.  The official documentation has a "how 
 
 Other replication options are discussed at [Planning for failures with Amazon DynamoDB | Sungard AS CTO Labs Blog](http://blog.sungardas.com/CTOLabs/2015/09/planning-for-failures-with-amazon-dynamodb-2/)
 
-![](images/pastedImage_2.png)
+![Cross Region Replication](images/pastedImage_2.png)
 
 ## Encryption at Rest
 
