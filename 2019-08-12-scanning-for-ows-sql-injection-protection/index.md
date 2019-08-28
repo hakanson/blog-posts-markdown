@@ -101,7 +101,7 @@ function ScanChildActions($ChildActions, [String[]]$ErrorMessages) {
       }
     }
 
-    $ErrorMessages = ScanChildActions $_.ChildActions $ErrorMessages
+    $ErrorMessages = [String[]](ScanChildActions $_.ChildActions $ErrorMessages)
   }
 
   return $ErrorMessages

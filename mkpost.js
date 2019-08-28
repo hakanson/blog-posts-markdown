@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2019-08-12";
-let title = "Scanning for OWS SQL Injection Protection";
+let date = "2012-01-09";
+let title = "Evolving Web Presentation Layer Technologies";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
-let hasImages = true;
-let tags = ["security", "codequality", "devops", "powershell"];
+let hasImages = false;
+let tags = ["webdev", "javascript", "architecture"];
 
 let slug =  `---
 title: ${title}
