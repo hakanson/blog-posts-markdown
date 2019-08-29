@@ -1,7 +1,7 @@
 
 # Kevin Hakanson's Blog Posts in Markdown
 
-Raw blog posts formatted in markdown for future import into somewhere else.
+Raw blog posts formatted in markdown for future import into somewhere else.  © 2019 Kevin Hakanson
 
 ## 2008
 
@@ -15,6 +15,7 @@ Raw blog posts formatted in markdown for future import into somewhere else.
 
 ## 2012
 
+* [2012-01-09-evolving-web-presentation-layer-technologies](2012-01-09-evolving-web-presentation-layer-technologies/index.md) 
 * [2012-02-01-customer-upload-speeds](2012-02-01-customer-upload-speeds/index.md) 
 
 ## 2013
@@ -97,6 +98,7 @@ Raw blog posts formatted in markdown for future import into somewhere else.
 * [2017-04-27-amazon-rds-and-tag-based-permissions](2017-04-27-amazon-rds-and-tag-based-permissions/index.md) 
 * [2017-05-15-creating-an-aws-iam-role-for-stsassumedrole](2017-05-15-creating-an-aws-iam-role-for-stsassumedrole/index.md) 
 * [2017-06-25-amazon-elasticsearch-service-and-iam-policies-on-http-methods](2017-06-25-amazon-elasticsearch-service-and-iam-policies-on-http-methods/index.md) 
+* [2017-06-26-encrypted-properties-and-aws-iam-roles](2017-06-26-encrypted-properties-and-aws-iam-roles/index.md) 
 * [2017-06-28-authenticated-encryption-with-the-aws-cli](2017-06-28-authenticated-encryption-with-the-aws-cli/index.md) 
 * [2017-07-05-capital-one-cloud-custodian-test-drive](2017-07-05-capital-one-cloud-custodian-test-drive/index.md) 
 * [2017-07-06-the-geographical-center-of-the-united-states-and-ip-addresses](2017-07-06-the-geographical-center-of-the-united-states-and-ip-addresses/index.md) 
@@ -134,8 +136,10 @@ Raw blog posts formatted in markdown for future import into somewhere else.
 * [2018-03-13-http-to-https-redirection-investigation](2018-03-13-http-to-https-redirection-investigation/index.md) 
 * [2018-03-15-amazon-load-balancers-x-forwarded-headers-and-proxy-protocol-support](2018-03-15-amazon-load-balancers-x-forwarded-headers-and-proxy-protocol-support/index.md) 
 * [2018-03-20-aws-options-for-blocking-ip-addresses](2018-03-20-aws-options-for-blocking-ip-addresses/index.md) 
+* [2018-04-09-database-credential-rotation-in-postgresql](2018-04-09-database-credential-rotation-in-postgresql/index.md) 
 * [2018-04-10-secrets-management](2018-04-10-secrets-management/index.md) 
 * [2018-04-27-content-security-policy-http-header-braindump](2018-04-27-content-security-policy-http-header-braindump/index.md) 
+* [2018-05-15-categorizing-backlog-items-using-the-owasp-samm-security-practices](2018-05-15-categorizing-backlog-items-using-the-owasp-samm-security-practices/index.md) 
 * [2018-06-02-side-channel-attacking-browsers-through-css3-features](2018-06-02-side-channel-attacking-browsers-through-css3-features/index.md) 
 * [2018-06-22-redis-security-investigation](2018-06-22-redis-security-investigation/index.md) 
 * [2018-06-27-making-a-secure-connection-to-elasticache-redis](2018-06-27-making-a-secure-connection-to-elasticache-redis/index.md) 
