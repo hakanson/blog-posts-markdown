@@ -5,7 +5,7 @@ author: Kevin Hakanson
 date: 2017-06-28
 tags: ["aws", "cli", "encryption"]
 ---
-I wanted to understand [Authenticated Encryption](http://docs.aws.amazon.com/kms/latest/developerguide/crypto_authen.html) better, so I thought I would try and learn interactively.  First, I saved some "sensitive" data into a file.
+I wanted to understand [Authenticated Encryption](http://docs.aws.amazon.com/kms/latest/developerguide/crypto_authen.html) better as a follow up to my research on [Encrypted Properties and AWS IAM Roles](../2017-06-26-encrypted-properties-and-aws-iam-roles).  I decide to try and learn interactively, so I saved some "sensitive" data into a file.
 
 ```console
 $ echo -n "P@ssword1" > pw1.txt
@@ -137,5 +137,3 @@ $ aws kms decrypt \
 
 An error occurred (InvalidCiphertextException) when calling the Decrypt operation:
 ```
-
-This begins to help me understand how to apply Authenticated Encryption to a story on Encrypted Properties and IAM Roles.
