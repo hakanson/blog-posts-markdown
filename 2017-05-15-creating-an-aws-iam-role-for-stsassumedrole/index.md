@@ -207,4 +207,4 @@ get-role --role-name kjh-wildcard-test-role
 }
 ```
 
-Next steps are probably to automate as part of a Python script or CloudFormation template that creates these service roles, looking up the RoleId and building the trust policy there.
+Next steps are probably to automate as part of a Python script or CloudFormation template that creates these service roles, looking up the `RoleId` and building the trust policy there.
