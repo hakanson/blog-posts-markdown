@@ -25,7 +25,7 @@ Not being a PostgreSQL security expert, I wondered if there were concepts of use
 > grant foo to foo_b;
 > ```
 >
-> This gets us most of the way to a seamless credential rotation. The issue I ran into next was any new objects created by foo_a or foo_b users were owned by foo_a and foo_b respectively. To ensure all objects created by foo_a and foo_b are owned by the group user foo we need to override their default role.
+> This gets us most of the way to a seamless credential rotation. The issue I ran into next was any new objects created by foo\_a or foo\_b users were owned by foo\_a and foo\_b respectively. To ensure all objects created by foo\_a and foo\_b are owned by the group user foo we need to override their default role.
 >
 > ```sql
 > alter role foo_a set role foo;
