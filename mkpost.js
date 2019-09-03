@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2018-04-09";
-let title = "Database Credential Rotation in PostgreSQL";
+let date = "2014-10-17";
+let title = "Extending AngularJS $log Concept";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
 let hasImages = true;
-let tags = ["aws", "secretsmanager", "database", "security"];
+let tags = ["javascript", "angularjs", "monitoring"];
 
 let slug =  `---
 title: ${title}

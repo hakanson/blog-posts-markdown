@@ -110,4 +110,6 @@ I'm not sure what went wrong.  There is no record in CloudTrail, but when I loo
 
 This looks like an AWS Enterprise Support question - but a lower priority because I have a workaround (and it is Thanksgiving tomorrow and re:Invent next week).
 
+---
+
 **Update:**  Working with AWS Support, we realized I could add a role using the full arn via the UI. I closed my case with the suggestion that the "help text" on that "share this environment" screen should  be updated not just to reference "IAM username" but give an indication that a full ARN (include role) could be used.
