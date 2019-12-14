@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2014-10-17";
-let title = "Extending AngularJS $log Concept";
+let date = "2019-12-05";
+let title = "Exam AZ-900: Microsoft Azure Fundamentals";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
 let hasImages = true;
-let tags = ["javascript", "angularjs", "monitoring"];
+let tags = ["azure", "career"];
 
 let slug =  `---
 title: ${title}

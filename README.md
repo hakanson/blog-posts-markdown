@@ -37,6 +37,7 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2014-07-31-reimagining-cobaltjs-preferences-in-angularjs-using-uml](2014-07-31-reimagining-cobaltjs-preferences-in-angularjs-using-uml/index.md) 
 * [2014-09-23-i-was-a-victim-of-internet-plagiarism](2014-09-23-i-was-a-victim-of-internet-plagiarism/index.md) 
 * [2014-10-07-hindi-number-formatting-in-javascript](2014-10-07-hindi-number-formatting-in-javascript/index.md) 
+* [2014-10-17-extending-angularjs-log-concept](2014-10-17-extending-angularjs-log-concept/index.md) 
 * [2014-11-13-c-and-net-without-windows-or-visual-studio](2014-11-13-c-and-net-without-windows-or-visual-studio/index.md) 
 * [2014-11-19-javascript-static-code-analysis](2014-11-19-javascript-static-code-analysis/index.md) 
 
@@ -165,6 +166,10 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2019-04-22-goodbye-oracle-java-8-hello-amazon-corretto-8](2019-04-22-goodbye-oracle-java-8-hello-amazon-corretto-8/index.md) 
 * [2019-05-03-aws-tools-for-powershell-on-macos](2019-05-03-aws-tools-for-powershell-on-macos/index.md) 
 * [2019-06-09-uml-sequence-diagrams-using-plantuml](2019-06-09-uml-sequence-diagrams-using-plantuml/index.md) 
+* [2019-06-14-programmatically-adding-ip-restrictions-to-an-azure-app-service](2019-06-14-programmatically-adding-ip-restrictions-to-an-azure-app-service/index.md) 
 * [2019-07-07-aws-signature-authorization-using-postman](2019-07-07-aws-signature-authorization-using-postman/index.md) 
 * [2019-08-12-scanning-for-ows-sql-injection-protection](2019-08-12-scanning-for-ows-sql-injection-protection/index.md) 
 * [2019-08-21-using-the-jfrog-artifactory-cli-with-api-keys-or-access-tokens](2019-08-21-using-the-jfrog-artifactory-cli-with-api-keys-or-access-tokens/index.md) 
+* [2019-09-06-veracode-api-hmac-authentication-in-python](2019-09-06-veracode-api-hmac-authentication-in-python/index.md) 
+* [2019-10-25-aws-alb-lambda-function-targets-and-multi-value-headers](2019-10-25-aws-alb-lambda-function-targets-and-multi-value-headers/index.md) 
+* [2019-12-05-exam-az-900-microsoft-azure-fundamentals](2019-12-05-exam-az-900-microsoft-azure-fundamentals/index.md) 
