@@ -27,7 +27,7 @@ Pluralsight didn't have an AZ-900 course, but if you have access to LinkedIn Lea
 
 I passed the exam on November 26 and have the [badge](https://www.youracclaim.com/badges/a97b0278-c588-4711-9c03-e869ad9bb60e/linked_in) to prove it.
 
-![Azure Fundamentals badge](https://media.licdn.com/dms/image/sync/C4E27AQFqxLi9uhTbvg/articleshare-shrink_1280_800/0?e=1575651600&v=beta&t=d5ogHlgXcjnuKnc7oiPLFQeolOvpty6JNR6Xnfj3aYE)
+![Azure Fundamentals badge](images/0.jpeg)
 
 I won't share my score but I did exceeding well on Understand Cloud Concepts, Understand Core Azure Services, and Understand Security, Privacy, Compliance, and Trust.  I also did embarrassingly horrible on Understand Azure Pricing and Support.  I attribute this to the fact I had spent my time on solutions architecture but leveraged efforts from the Cloud Center of Excellence related to account / subscription setup.  For those of you with similar backstories, I recommend doubling-down on studying for that Pricing and Support section.
 
