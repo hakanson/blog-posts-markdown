@@ -7,7 +7,9 @@ tags: ["webdev"]
 ---
 Since Chrome Frame was pushed out to employees to support Workday, we have been seeing some odd browser issues with a few of our applications.  This has led us to "disable" Chrome Frame support by setting the maximum IE version used to IE6 (N.b. chrome=0 does not work; you can verify by looking at the [chromium GetXUaCompatibleDirective source code](https://code.google.com/p/chromium/codesearch#chromium/src/chrome_frame/utils.cc&sq=package:chromium&type=cs)).
 
-> `<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=IE6" />`
+```html
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=IE6" />
+```
 
 More details on the end of Chrome support are available from some Google Chrome/Chromium blog posts.
 

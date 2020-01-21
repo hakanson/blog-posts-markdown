@@ -115,7 +115,7 @@ RewriteRule .* https://%{HTTP:Host}%{REQUEST_URI} [L,R=permanent]
 
 Now, take a couple minutes and go read [The WiFi Pineapple - Using Karma and SSLstrip to MiTM secure connections](https://scotthelme.co.uk/wifi-pineapple-karma-sslstrip/)  
 
-![Karma saying it is the device's preferred network](https://www.troyhunt.com/content/images/2016/02/31233122are-you-my-network3.jpg)
+> ![Karma saying it is the device's preferred network](images/31233122are-you-my-network3.jpg)
 
 Let me highlight a key point of this attack:
 

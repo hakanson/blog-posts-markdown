@@ -173,3 +173,8 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2019-09-06-veracode-api-hmac-authentication-in-python](2019-09-06-veracode-api-hmac-authentication-in-python/index.md) 
 * [2019-10-25-aws-alb-lambda-function-targets-and-multi-value-headers](2019-10-25-aws-alb-lambda-function-targets-and-multi-value-headers/index.md) 
 * [2019-12-05-exam-az-900-microsoft-azure-fundamentals](2019-12-05-exam-az-900-microsoft-azure-fundamentals/index.md) 
+
+## 2020
+
+* [2020-01-08-setting-subscription-used-inside-azure-cloud-shell](2020-01-08-setting-subscription-used-inside-azure-cloud-shell/index.md) 
+* [2020-01-20-using-aws-x-ray-with-lambdaedge](2020-01-20-using-aws-x-ray-with-lambdaedge/index.md) 

@@ -11,7 +11,7 @@ I recently downloaded and installed Windows 8.1 Preview to take a look at IE 11 
 
 For a baseline, here are the results for Google Chrome (Mac; Version 27.0.1453.116)
 
-![Google Chrome (Mac; Version 27.0.1453.116)](./images/chrome-mac.png)]
+![Google Chrome (Mac; Version 27.0.1453.116)](./images/chrome-mac.png)
 
 So how do the bleeding edge versions of the leading web browsers compare?
 

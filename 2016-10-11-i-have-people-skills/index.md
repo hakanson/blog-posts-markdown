@@ -1,5 +1,5 @@
 ---
-title: \""I have people skills"\"
+title: "\"I have people skills\""
 slug: /2016-10-11-i-have-people-skills
 author: Kevin Hakanson
 date: 2016-10-11

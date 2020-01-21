@@ -36,13 +36,13 @@ Then, I created an EC2 instance and assigned that IAM role:
 I connected to my instance over SSH...
 
 ```console
-ssh -i kjh-tax-sandbox.pem ec2-user@54.200.155.114
+$ ssh -i kjh-tax-sandbox.pem ec2-user@54.200.155.114
 ```
 
 ...and on that instance, I followed the instruction from [IAM Roles for Amazon EC2 - Amazon Elastic Compute Cloud](http://docs.aws.amazon.com/AWSEC2/latest/UserGuide/iam-roles-for-amazon-ec2.html#instance-metadata-security-credentials) to get the credentials the same way the AWS SDK does:
 
 ```console
-curl http://169.254.169.254/latest/meta-data/iam/security-credentials/kjh-s3-encryption-test1-role  
+$ curl http://169.254.169.254/latest/meta-data/iam/security-credentials/kjh-s3-encryption-test1-role  
 {  
   "Code" : "Success",  
   "LastUpdated" : "2016-08-13T16:36:13Z",  
