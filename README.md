@@ -178,3 +178,4 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 
 * [2020-01-08-setting-subscription-used-inside-azure-cloud-shell](2020-01-08-setting-subscription-used-inside-azure-cloud-shell/index.md) 
 * [2020-01-20-using-aws-x-ray-with-lambdaedge](2020-01-20-using-aws-x-ray-with-lambdaedge/index.md) 
+* [2020-02-03-aws-ux-issues-when-under-load](2020-02-03-aws-ux-issues-when-under-load/index.md) 

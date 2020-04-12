@@ -5,10 +5,10 @@ author: Kevin Hakanson
 date: 2019-08-21
 tags: ["devops", "cli", "security"]
 ---
-I received early adopter access to our [JFrog Artifactory](https://jfrog.com/artifactory/) instances located at [https://tr1.jfrog.io](https://tr1.jfrog.io/).  After you log in via SSO you are redirected to [https://tr1.jfrog.io/tr1/webapp/#/home](https://tr1.jfrog.io/tr1/webapp/#/home) (note that `/tr1/` path segment as this is needed for API URLs).  I wanted to try CLI access so I started with a simple unauthenticated "[ping](https://www.jfrog.com/confluence/display/RTF/Artifactory+REST+API#ArtifactoryRESTAPI-SystemHealthPing)" using `curl` against the REST API using [\-s](https://curl.haxx.se/docs/manpage.html#-s) for "silent mode" and [\-i](https://curl.haxx.se/docs/manpage.html#-i) to include HTTP response header is output, but limit to the first line by piping through `head`.
+I received early adopter access to our [JFrog Artifactory](https://jfrog.com/artifactory/) instances located at `https://redacted.jfrog.io`.  After you log in via SSO you are redirected to `https://redacted.jfrog.io/redacted/webapp/#/home` (note that `/redacted/` path segment as this is needed for API URLs).  I wanted to try CLI access so I started with a simple unauthenticated "[ping](https://www.jfrog.com/confluence/display/RTF/Artifactory+REST+API#ArtifactoryRESTAPI-SystemHealthPing)" using `curl` against the REST API using [\-s](https://curl.haxx.se/docs/manpage.html#-s) for "silent mode" and [\-i](https://curl.haxx.se/docs/manpage.html#-i) to include HTTP response header is output, but limit to the first line by piping through `head`.
 
 ```console
-$ curl -s -i https://tr1.jfrog.io/tr1/api/system/ping | head -n 1
+$ curl -s -i https://redacted.jfrog.io/redacted/api/system/ping | head -n 1
 HTTP/1.1 200 OK
 ```
 
@@ -16,7 +16,7 @@ Success. Let's try some negative testing of my user but with an invalid API key
 
 ```console
 $ curl -s -i -u "0038137:INVALID_APIKEY" \
-https://tr1.jfrog.io/tr1/api/system/ping | head -n 1
+https://redacted.jfrog.io/redacted/api/system/ping | head -n 1
 HTTP/1.1 401 Unauthorized
 ```
 
@@ -26,7 +26,7 @@ Now let's grab my API key and try again.
 
 ```console
 $ curl -s -i -u "0038137:REDACTED_APIKEY" \
-https://tr1.jfrog.io/tr1/api/system/ping | head -n 1
+https://redacted.jfrog.io/redacted/api/system/ping | head -n 1
 HTTP/1.1 200 OK
 ```
 
@@ -38,8 +38,8 @@ Let's switch to using the [JFrog CLI](https://www.jfrog.com/confluence/display/
 $ jfrog --version
 jfrog version 1.27.0
 
-$ jfrog rt config --url https://tr1.jfrog.io/tr1/ --user 0038137
-Artifactory server ID: tr1
+$ jfrog rt config --url https://redacted.jfrog.io/redacted/ --user 0038137
+Artifactory server ID: redacted
 Access token (Leave blank for username and password/API key): 
 Password/API key: 
 [Info] Encrypting password...
@@ -59,10 +59,10 @@ $ cat ~/.jfrog/jfrog-cli.conf
 {
   "artifactory": [
     {
-      "url": "https://tr1.jfrog.io/tr1/",
+      "url": "https://redacted.jfrog.io/redacted/",
       "user": "0038137",
       "password": "REDACTED_APIKEY",
-      "serverId": "tr1",
+      "serverId": "redacted",
       "isDefault": true
     }
   ],
@@ -85,7 +85,7 @@ REDACTED_APIKEY
 
 $ curl -s -i \
 -u "0038137:$(jq -r ".artifactory[0].password" ~/.jfrog/jfrog-cli.conf)" \
-https://tr1.jfrog.io/tr1/api/system/ping | head -n 1
+https://redacted.jfrog.io/redacted/api/system/ping | head -n 1
 HTTP/1.1 200 OK
 ```
 
@@ -103,7 +103,7 @@ For my CI/CD pipelines, I don't really want my personal API Key being used.  Lu
 > * **Flexible scope**  
 >  By assigning Groups to tokens, you can control the level of access they provide.
 
-Let's create an access token that is valid for the next 90 seconds and then configure a `tr1token` entry in our config file.
+Let's create an access token that is valid for the next 90 seconds and then configure a `REDACTED_ID` entry in our config file.
 
 ```console
 $ jfrog rt curl -X POST /api/security/token \
@@ -117,21 +117,21 @@ $ jfrog rt curl -X POST /api/security/token \
   "token_type" : "Bearer"
 }
 
-$ jfrog rt config --url https://tr1.jfrog.io/tr1/ --user 0038137
-Artifactory server ID [tr1]: tr1token
+$ jfrog rt config --url https://redacted.jfrog.io/redacted/ --user 0038137
+Artifactory server ID [redacted]: REDACTED_ID
 Access token (Leave blank for username and password/API key): 
 ```
 
-Quickly use the token with a ping command specifying the `tr1token` config, then wait for 90 seconds for the token to expire and execute another ping command.
+Quickly use the token with a ping command specifying the `REDACTED_ID` config, then wait for 90 seconds for the token to expire and execute another ping command.
 
 ```console
-$ jfrog rt ping --server-id tr1token
+$ jfrog rt ping --server-id REDACTED_ID
 OK
 
 $ echo "wait 90 seconds"
 wait 90 seconds
 
-$ jfrog rt ping --server-id tr1token
+$ jfrog rt ping --server-id REDACTED_ID
 [Error] Artifactory response: 401 Unauthorized
 {
   "errors": [
