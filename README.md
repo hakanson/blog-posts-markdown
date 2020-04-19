@@ -163,6 +163,7 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 
 * [2019-01-11-finding-all-aws-services-my-team-is-using](2019-01-11-finding-all-aws-services-my-team-is-using/index.md) 
 * [2019-04-10-aws-iam-policy-for-service-user-s3-access](2019-04-10-aws-iam-policy-for-service-user-s3-access/index.md) 
+* [2019-04-14-file-verification-of-a-sha-256-hash-using-powershell](2019-04-14-file-verification-of-a-sha-256-hash-using-powershell/index.md) 
 * [2019-04-22-goodbye-oracle-java-8-hello-amazon-corretto-8](2019-04-22-goodbye-oracle-java-8-hello-amazon-corretto-8/index.md) 
 * [2019-05-03-aws-tools-for-powershell-on-macos](2019-05-03-aws-tools-for-powershell-on-macos/index.md) 
 * [2019-06-09-uml-sequence-diagrams-using-plantuml](2019-06-09-uml-sequence-diagrams-using-plantuml/index.md) 
@@ -179,3 +180,4 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2020-01-08-setting-subscription-used-inside-azure-cloud-shell](2020-01-08-setting-subscription-used-inside-azure-cloud-shell/index.md) 
 * [2020-01-20-using-aws-x-ray-with-lambdaedge](2020-01-20-using-aws-x-ray-with-lambdaedge/index.md) 
 * [2020-02-03-aws-ux-issues-when-under-load](2020-02-03-aws-ux-issues-when-under-load/index.md) 
+* [2020-04-18-will-the-real-azure-please-stand-up](2020-04-18-will-the-real-azure-please-stand-up/index.md) 
