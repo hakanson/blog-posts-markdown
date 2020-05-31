@@ -1,7 +1,7 @@
 
 # Kevin Hakanson's Blog Posts in Markdown
 
-Raw blog posts formatted in markdown for future import into somewhere else.  © 2019 Kevin Hakanson
+Raw blog posts formatted in markdown for future import into somewhere else.  © 2020 Kevin Hakanson
 
 ## 2008
 
@@ -181,3 +181,6 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2020-01-20-using-aws-x-ray-with-lambdaedge](2020-01-20-using-aws-x-ray-with-lambdaedge/index.md) 
 * [2020-02-03-aws-ux-issues-when-under-load](2020-02-03-aws-ux-issues-when-under-load/index.md) 
 * [2020-04-18-will-the-real-azure-please-stand-up](2020-04-18-will-the-real-azure-please-stand-up/index.md) 
+* [2020-04-22-exploring-the-microsoft-graph-api-from-azure-cloud-shell](2020-04-22-exploring-the-microsoft-graph-api-from-azure-cloud-shell/index.md) 
+* [2020-05-20-connecting-to-azure-cache-for-redis-from-redisinsight](2020-05-20-connecting-to-azure-cache-for-redis-from-redisinsight/index.md) 
+* [2020-05-29-playing-with-terraform-inside-azure-cloud-shell](2020-05-29-playing-with-terraform-inside-azure-cloud-shell/index.md) 

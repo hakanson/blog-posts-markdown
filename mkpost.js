@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2019-04-14";
-let title = "File Verification of a SHA-256 Hash using PowerShell";
+let date = "2020-05-29";
+let title = "Playing with Terraform inside Azure Cloud Shell";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
 let hasImages = false;
-let tags = ["powershell", "security"];
+let tags = ["azure", "cli", "terraform"];
 
 let slug =  `---
 title: ${title}
