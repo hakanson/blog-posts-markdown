@@ -24,7 +24,7 @@ When I'm first exploring a new API, it is comfortable to use a GUI based API exp
 }
 ```
 
-Other times I want to explore an API using the command line, since it is easier for me to document my research than using browser screenshots.  I opened up [Azure Cloud Shell](https://shell.azure.com/) ...
+Other times I want to explore an API using the command line, since it is easier for me to document my research in markdown than using browser screenshots.  I opened up [Azure Cloud Shell](https://shell.azure.com/) ...
 ![Azure Cloud Shell](images/AzureCloudShell.png)
 
 ...and gave `curl` a try:
@@ -43,7 +43,7 @@ kevin@Azure:~$ curl https://graph.microsoft.com/v1.0/me/
 }
 ```
 
-This error makes sense, because without an access token, how would it know who `/me/` was?  Using browser DevTools to look at the outgoing HTTP request from Graph Explorer, I see it includes an Authorization header with a Bearer token.
+This error makes sense, because without an access token, how would it know who `/me/` was?  Using browser DevTools to look at the outgoing HTTP request from Graph Explorer, I see it includes an `Authorization` header with a `Bearer` token.
 
 ```http
 GET /v1.0/me/ HTTP/1.1
@@ -54,7 +54,7 @@ Authorization: Bearer [redacted]
 
 ![Graph API Access Token](images/GraphAccessToken.png)
 
-How can I get a token without having to cut/paste?  Luckily, one can [acquire an access token in Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/msi-authorization#acquire-access-token-in-cloud-shell) by using the `$MSI_ENDPOINT`. I pipe through [jq](https://stedolan.github.io/jq/) for formatting and use [--silent](https://curl.haxx.se/docs/manpage.html#-s) to not have the progress meter get in my output.
+How can I get a token without having to cut/paste from Graph Explorer?  Luckily, one can [acquire an access token in Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/msi-authorization#acquire-access-token-in-cloud-shell) by using the `$MSI_ENDPOINT`. I pipe the output through [jq](https://stedolan.github.io/jq/) for formatting and use [--silent](https://curl.haxx.se/docs/manpage.html#-s) to not have the progress meter get in the way.
 
 ```console
 kevin@Azure:~$ curl $MSI_ENDPOINT -d "resource"="https://graph.microsoft.com/" --header "metadata: true" --silent | jq
@@ -68,7 +68,7 @@ kevin@Azure:~$ curl $MSI_ENDPOINT -d "resource"="https://graph.microsoft.com/" -
   "token_type": "Bearer"
 }
 ```
-That worked great for display, but now to save it as the `$GRAPH_JWT` environment variable for later use.  I'll also generate a link to the [jwt.ms](https://jwt.ms/) website to decode the token and inspect the claims.
+That worked great for inspection, but now to save it in the `$GRAPH_JWT` environment variable for later use.  I'll also generate a link to the [jwt.ms](https://jwt.ms/) website to decode the token and inspect the claims.
 
 ```console
 kevin@Azure:~$ export GRAPH_JWT=`curl $MSI_ENDPOINT --data "resource=https://graph.microsoft.com/" --header "metadata: true" --silent | jq .access_token -r`
@@ -156,7 +156,7 @@ Note: Each of these Graph API URLs return the same JSON response:
 The same user data can be fetched using `/directoryObjects` but this response includes an `@odata.type` field with the `#microsoft.graph.user` value.
 
 ```console
-kevin@Azure:~$ az rest --url https://graph.microsoft.com/v1.0/directoryObjects/11112222-3333-4444-5555-666677778888?\$select=id,userPrincipalName,displayName"
+kevin@Azure:~$ az rest --url "https://graph.microsoft.com/v1.0/directoryObjects/11112222-3333-4444-5555-666677778888?\$select=id,userPrincipalName,displayName"
 {
   "@odata.context": "https://graph.microsoft.com/v1.0/$metadata#directoryObjects(id,userPrincipalName,displayName)/$entity",
   "@odata.type": "#microsoft.graph.user",
