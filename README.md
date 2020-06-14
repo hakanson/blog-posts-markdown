@@ -184,3 +184,4 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2020-04-22-exploring-the-microsoft-graph-api-from-azure-cloud-shell](2020-04-22-exploring-the-microsoft-graph-api-from-azure-cloud-shell/index.md) 
 * [2020-05-20-connecting-to-azure-cache-for-redis-from-redisinsight](2020-05-20-connecting-to-azure-cache-for-redis-from-redisinsight/index.md) 
 * [2020-05-29-playing-with-terraform-inside-azure-cloud-shell](2020-05-29-playing-with-terraform-inside-azure-cloud-shell/index.md) 
+* [2020-06-12-customizing-azure-cloud-shell-using-a-powershell-profile](2020-06-12-customizing-azure-cloud-shell-using-a-powershell-profile/index.md) 

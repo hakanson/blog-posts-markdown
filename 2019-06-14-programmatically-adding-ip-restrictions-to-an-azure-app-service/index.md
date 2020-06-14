@@ -3,7 +3,7 @@ title: Programmatically Adding IP Restrictions to an Azure App Service
 slug: /2019-06-14-programmatically-adding-ip-restrictions-to-an-azure-app-service
 author: Kevin Hakanson
 date: 2019-06-14
-tags: ["security", "azure", "powershell"]
+tags: ["security", "azure", "powershell", "cloudshell"]
 ---
 For a proof-of-concept I was working on, I needed to add an IP access restriction to an Azure App Service instance.  This can easily be done in the Portal UI, but not via PowerShell according to [Programmatic manipulation of access restriction rules](https://docs.microsoft.com/en-us/azure/app-service/app-service-ip-restrictions#programmatic-manipulation-of-access-restriction-rules).
 
@@ -71,7 +71,7 @@ function Put-KJHIPSecurityRestrictions
 
 I ran into early trouble passing `-Body $body` with an "The request content was invalid and could not be deserialized" error message. Some internet searching led me to using the `-Depth` parameter above.  Below is an example of how that affected serialization.
 
-```console
+```powershell
 PS Azure:\> ConvertTo-Json $body
 {
   "properties": {
@@ -99,7 +99,7 @@ PS Azure:\> ConvertTo-Json $body -Depth 3
 
 It was time to put in all together and add an Access Restriction for my IP to my App Service.
 
-```console
+```powershell
 PS Azure:\> $headers = Get-KJHAuthorizationHeaders
 PS Azure:\> Put-KJHIPSecurityRestrictions -WebApp $WebApp -Headers $headers -IP "198.179.137.206/32"
 

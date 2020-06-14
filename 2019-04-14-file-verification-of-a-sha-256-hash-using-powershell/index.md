@@ -26,7 +26,7 @@ $ shasum -a 256 digiKam-6.0.0-Win64.exe
 ```
 Because I was going to suggest this program to a non-developer Windows 10 user, I wanted to find another way for them to verify.  Since Windows PowerShell is installed by default, I decided to use PowerShell [Get-FileHash](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash?view=powershell-5.1).  
 
-```console
+```powershell
 PS D:\kevin\downloads> Get-FileHash .\digiKam-6.0.0-Win64.exe | Format-List
 
 Algorithm : SHA256
@@ -36,7 +36,7 @@ Path      : D:\kevin\downloads\digiKam-6.0.0-Win64.exe
 
 From that output, I can compare the values by copying the value and doing a "find" on the download page.  But now that I was playing around with PowerShell, I wanted to explore better ways and did some exploration.
 
-```console
+```powershell
 PS D:\kevin\downloads> $hash = Get-FileHash .\digiKam-6.0.0-Win64.exe
 PS D:\kevin\downloads> $hash.hash
 3A39D14BF98641DBCE2072C9A68099E15ACECE4F94897113611E16FA4FCB58E8
@@ -50,7 +50,7 @@ I wasn't expecting the case insensitive compare to work, but [About Comparison O
 
 Putting everything together, I can use this 1-liner as future reference.
 
-```console
+```powershell
 PS D:\kevin\downloads> (Get-FileHash .\digiKam-6.0.0-Win64.exe).hash -eq "3a39d14bf98641dbce2072c9a68099e15acece4f94897113611e16fa4fcb58e8"
 True
 ```

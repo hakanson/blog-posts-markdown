@@ -23,7 +23,7 @@ Friday, May 3, 2019 6:49:34 PM
 
 After that, it was time for [Setting up the AWS Tools for PowerShell Core on Linux or macOS X](https://docs.aws.amazon.com/powershell/latest/userguide/pstools-getting-set-up-linux-mac.html) and making sure it worked.
 
-```console
+```powershell
 PS> Install-Module -Name AWSPowerShell.NetCore -AllowClobber
 PS> Import-Module AWSPowerShell.NetCore
 PS> Get-AWSPowerShellVersion
@@ -45,7 +45,7 @@ This software includes third party software subject to the following copyrights:
 
 Then my favorite command: AWS Security Token Service Get Caller Identity
 
-```console
+```powershell
 PS> $STS = Get-STSCallerIdentity -ProfileName aws-account-alias -Region us-west-2
 PS> $STS.Account
 123456789012

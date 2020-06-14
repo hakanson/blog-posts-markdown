@@ -3,7 +3,7 @@ title: Exploring the Microsoft Graph API from Azure Cloud Shell
 slug: /2020-04-22-exploring-the-microsoft-graph-api-from-azure-cloud-shell
 author: Kevin Hakanson
 date: 2020-04-22
-tags: ["azure", "cli", "odata"]
+tags: ["azure", "cli", "odata", "cloudshell"]
 ---
 When I'm first exploring a new API, it is comfortable to use a GUI based API explorer tool.  For the Microsoft Graph API, this is the Graph Explorer and a tool I enjoy working with.  Try it out with this direct link which will query [https://graph.microsoft.com/v1.0/me/](https://developer.microsoft.com/en-US/graph/graph-explorer?request=me&method=GET&version=v1.0&GraphUrl=https://graph.microsoft.com&requestBody=dW5kZWZpbmVk) and get a response similar to:
 

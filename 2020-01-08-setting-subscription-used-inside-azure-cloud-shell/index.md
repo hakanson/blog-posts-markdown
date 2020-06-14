@@ -3,7 +3,7 @@ title: Setting Subscription used inside Azure Cloud Shell
 slug: /2020-01-08-setting-subscription-used-inside-azure-cloud-shell
 author: Kevin Hakanson
 date: 2020-01-08
-tags: ["azure", "cli", "powershell"]
+tags: ["azure", "cli", "powershell", "cloudshell"]
 ---
 This week I am attending some Azure Architect training, listening to some lectures, and doing some labs.  The course includes Azure credits provided as an Azure Sponsorships subscription, which meant I don't need to use any of my monthly MSDN credits - unless I do something wrong - which I did.
 
@@ -19,7 +19,7 @@ My `cloud-shell-storage-eastus` is in that subscription, and when I log into the
 Azure:/
 PS Azure:\> Get-AzContext | Select-Object -Property Name, Subscription, Tenant | Format-List
 
-Name               : Windows Azure  MSDN - Visual Studio Premium (11111111-1111-4000-11111111111111111) - MSI@00000
+Name               : Windows Azure  MSDN - Visual Studio Premium (11111111-1111-4000-11111111111111111) - MSI@50342
 Subscription       : 11111111-1111-4000-11111111111111111
 Tenant             : 00000000-0000-4000-00000000000000000
 

@@ -3,7 +3,7 @@ title: Playing with Terraform inside Azure Cloud Shell
 slug: /2020-05-29-playing-with-terraform-inside-azure-cloud-shell
 author: Kevin Hakanson
 date: 2020-05-29
-tags: ["azure","cli","terraform"]
+tags: ["azure", "cli", "terraform", "cloudshell"]
 ---
 
 I noticed that [terraform](https://www.terraform.io/) was one of the [tools pre-configured in Azure Cloud Shell](https://docs.microsoft.com/en-us/azure/cloud-shell/features#tools), so I decided to play around with it based on the Terraform [Getting Started - Azure](https://learn.hashicorp.com/terraform/azure/intro_az) learning track.
