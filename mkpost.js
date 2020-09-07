@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2020-06-12";
-let title = "Customizing Azure Cloud Shell using a PowerShell Profile";
+let date = "2020-08-12";
+let title = "What is the OWASP Cyber Defense Matrix?";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
-let hasImages = false;
-let tags = ["azure", "powershell", "cloudshell"];
+let hasImages = true;
+let tags = ["cloud", "security", "owasp"];
 
 let slug =  `---
 title: ${title}
