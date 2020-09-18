@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2020-08-12";
-let title = "What is the OWASP Cyber Defense Matrix?";
+let date = "2020-09-18";
+let title = "7 Attempts at Slide Deck Humor";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
 let hasImages = true;
-let tags = ["cloud", "security", "owasp"];
+let tags = ["random"];
 
 let slug =  `---
 title: ${title}
