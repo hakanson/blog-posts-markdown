@@ -4,6 +4,7 @@ slug: /2020-06-11-understanding-cis-controls-and-benchmarks
 author: Kevin Hakanson
 date: 2020-06-11
 tags: ["cloud", "security", "cis"]
+canonical: https://discover.opscompass.com/blog/cis-controls-and-benchmarks
 ---
 
 In a conversation about cyber security or cyber defense, you might hear the terms CIS and security controls mentioned as a recommended best practice.  However, without some additional context this is just another TLA (Three Letter Acronym).

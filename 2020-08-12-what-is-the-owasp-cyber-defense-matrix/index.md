@@ -4,6 +4,7 @@ slug: /2020-06-26-what-is-the-owasp-cyber-defense-matrix
 author: Kevin Hakanson
 date: 2020-08-12
 tags: ["cloud", "security", "owasp"]
+canonical: https://discover.opscompass.com/blog/cis-controls-and-benchmarks
 ---
 
 [The OWASP® Foundation](https://owasp.org/) works to improve the security of software through its community-led open source software projects, including the [OWASP Cyber Defense Matrix](https://owasp.org/www-project-cyber-defense-matrix/), a project initially created to help organize security technologies across the cybersecurity vendor marketplace. They address some of the confusion that still exists as a result of both a cybersecurity community that doesn’t use consistent terminology and vendors who use marketecture language based on trendy jargon.

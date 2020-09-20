@@ -1,9 +1,11 @@
 ---
 title: 7 Attempts at Slide Deck Humor
+description: They say "If you have to explain a joke, it's not funny" but I don't care what "they" say - these attempts at tech conference presentation slide deck humor are getting an explanation.
 slug: /2020-09-18-7-attempts-at-slide-deck-humor
 author: Kevin Hakanson
 date: 2020-09-18
 tags: ["random"]
+canonical: https://www.linkedin.com/pulse/7-attempts-slide-deck-humor-kevin-hakanson/
 ---
 
 With the transition of [SlideShare from LinkedIn to Scribd](https://news.linkedin.com/2020/august/digital-library-leader-scribd-is-acquiring-slideshare), I looked through my old tech conference presentation slide decks and wanted to highlight some of my slides that (maybe) were not as humorous as I planned. They say "If you have to explain a joke, it's not funny" but I don't care what "they" say - these are getting an explanation.
@@ -37,3 +39,7 @@ From [Introduction to Speech Interfaces for Web Applications](https://www.slides
 ![TK-421](images/introduction-to-speech-interfaces-for-web-applications-46-638.jpg)
 
 Hopefully, you found at least one of these funny without the explanation. Visit [kevinhakanson.com/presentations](https://kevinhakanson.com/presentations) for links to all my slide decks, associated code samples, and some video recordings.
+
+---
+
+*Original version appears as a [LinkedIn article](https://www.linkedin.com/pulse/7-attempts-slide-deck-humor-kevin-hakanson/)*
