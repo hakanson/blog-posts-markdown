@@ -166,6 +166,7 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2019-04-14-file-verification-of-a-sha-256-hash-using-powershell](2019-04-14-file-verification-of-a-sha-256-hash-using-powershell/index.md) 
 * [2019-04-22-goodbye-oracle-java-8-hello-amazon-corretto-8](2019-04-22-goodbye-oracle-java-8-hello-amazon-corretto-8/index.md) 
 * [2019-05-03-aws-tools-for-powershell-on-macos](2019-05-03-aws-tools-for-powershell-on-macos/index.md) 
+* [2019-05-23-aws-tag-keys-with-spaces-problems](2019-05-23-aws-tag-keys-with-spaces-problems/index.md) 
 * [2019-06-09-uml-sequence-diagrams-using-plantuml](2019-06-09-uml-sequence-diagrams-using-plantuml/index.md) 
 * [2019-06-14-programmatically-adding-ip-restrictions-to-an-azure-app-service](2019-06-14-programmatically-adding-ip-restrictions-to-an-azure-app-service/index.md) 
 * [2019-07-07-aws-signature-authorization-using-postman](2019-07-07-aws-signature-authorization-using-postman/index.md) 

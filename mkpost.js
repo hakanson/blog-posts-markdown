@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2020-09-18";
-let title = "7 Attempts at Slide Deck Humor";
+let date = "2019-05-23";
+let title = "AWS Tag Keys with Spaces Problems";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
 let hasImages = true;
-let tags = ["random"];
+let tags = ["aws"];
 
 let slug =  `---
 title: ${title}
