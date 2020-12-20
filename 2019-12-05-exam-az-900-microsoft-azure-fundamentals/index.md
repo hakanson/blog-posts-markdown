@@ -3,7 +3,7 @@ title: "Exam AZ-900: Microsoft Azure Fundamentals"
 slug: /2019-12-05-exam-az-900-microsoft-azure-fundamentals
 author: Kevin Hakanson
 date: 2019-12-05
-tags: ["azure", "career"]
+tags: ["azure", "career", "certification"]
 ---
 Since February 2019, I have been spending time in Microsoft Azure, primarily related to a "move and improve" project for a ".NET monolith" with heavy dependencies on SQL Server.  Through various proofs-of-concept and architecture design sessions with Microsoft, I felt I had a good baseline set of knowledge of Azure.   So, when I learned there was going to be an onsite class for AZ-900 Microsoft Azure Fundamentals on November 18th, I signed up to round out my knowledge and prepare for the certification exam.
 
