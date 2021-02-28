@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2020-10-30";
-let title = "I'm a Microsoft Azure Solutions Architect Expert";
+let date = "2021-02-27";
+let title = "Acclaim Badges to CSV";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
-let hasImages = true;
-let tags = ["azure", "architecture", "certification"];
+let hasImages = false;
+let tags = ["certification", "javascript", "monitoring"];
 
 let slug =  `---
 title: ${title}

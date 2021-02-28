@@ -191,5 +191,12 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2020-08-12-what-is-the-owasp-cyber-defense-matrix](2020-08-12-what-is-the-owasp-cyber-defense-matrix/index.md) 
 * [2020-09-12-7-multi-cloud-governance-best-practices](2020-09-12-7-multi-cloud-governance-best-practices/index.md) 
 * [2020-09-18-7-attempts-at-slide-deck-humor](2020-09-18-7-attempts-at-slide-deck-humor/index.md) 
+* [2020-10-10-azure-managed-identity-resources](2020-10-10-azure-managed-identity-resources/index.md) 
 * [2020-10-30-im-a-microsoft-azure-solutions-architect-expert](2020-10-30-im-a-microsoft-azure-solutions-architect-expert/index.md) 
 * [2020-12-01-my-amazon-alexa-skills-journey](2020-12-01-my-amazon-alexa-skills-journey/index.md) 
+* [2020-12-18-cloud-state-monitoring](2020-12-18-cloud-state-monitoring/index.md) 
+
+## 2021
+
+* [2021-01-22-im-a-microsoft-azure-security-engineer-associate](2021-01-22-im-a-microsoft-azure-security-engineer-associate/index.md) 
+* [2021-02-27-acclaim-badges-to-csv](2021-02-27-acclaim-badges-to-csv/index.md) 
