@@ -10,6 +10,7 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 
 ## 2009
 
+* [2009-05-20-my-first-jquery-ticket](2009-05-20-my-first-jquery-ticket/index.md) 
 * [2009-07-06-you-cant-escape-encoding](2009-07-06-you-cant-escape-encoding/index.md) 
 * [2009-08-03-javascript-vs-json-encoding](2009-08-03-javascript-vs-json-encoding/index.md) 
 
@@ -200,3 +201,7 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 
 * [2021-01-22-im-a-microsoft-azure-security-engineer-associate](2021-01-22-im-a-microsoft-azure-security-engineer-associate/index.md) 
 * [2021-02-27-acclaim-badges-to-csv](2021-02-27-acclaim-badges-to-csv/index.md) 
+* [2021-03-22-its-day-1-at-aws](2021-03-22-its-day-1-at-aws/index.md) 
+* [2021-06-30-aws-cloudformation-linter-custom-rules](2021-06-30-aws-cloudformation-linter-custom-rules/index.md) 
+* [2021-07-29-my-first-c-aws-lambda-function](2021-07-29-my-first-c-aws-lambda-function/index.md) 
+* [2021-08-12-adding-aws-icons-to-plantuml-sequence-diagrams](2021-08-12-adding-aws-icons-to-plantuml-sequence-diagrams/index.md) 
