@@ -2,7 +2,7 @@
 title: My first C# AWS Lambda Function
 slug: /2021-07-29-my-first-c-aws-lambda-function
 author: Kevin Hakanson
-date: 2021-06-30
+date: 2021-07-29
 tags: ["aws","lambda","csharp","dotnet"]
 ---
 
