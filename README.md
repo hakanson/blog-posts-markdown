@@ -205,3 +205,5 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2021-06-30-aws-cloudformation-linter-custom-rules](2021-06-30-aws-cloudformation-linter-custom-rules/index.md) 
 * [2021-07-29-my-first-c-aws-lambda-function](2021-07-29-my-first-c-aws-lambda-function/index.md) 
 * [2021-08-12-adding-aws-icons-to-plantuml-sequence-diagrams](2021-08-12-adding-aws-icons-to-plantuml-sequence-diagrams/index.md) 
+* [2021-09-24-the-mystery-of-the-100-mbps-internet-speed](2021-09-24-the-mystery-of-the-100-mbps-internet-speed/index.md) 
+* [2021-12-07-the-1-search-result-on-google](2021-12-07-the-1-search-result-on-google/index.md) 
