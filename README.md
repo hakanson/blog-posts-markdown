@@ -207,3 +207,10 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2021-08-12-adding-aws-icons-to-plantuml-sequence-diagrams](2021-08-12-adding-aws-icons-to-plantuml-sequence-diagrams/index.md) 
 * [2021-09-24-the-mystery-of-the-100-mbps-internet-speed](2021-09-24-the-mystery-of-the-100-mbps-internet-speed/index.md) 
 * [2021-12-07-the-1-search-result-on-google](2021-12-07-the-1-search-result-on-google/index.md) 
+
+## 2022
+
+* [2022-03-29-aws-jwt-verify-v300-released](2022-03-29-aws-jwt-verify-v300-released/index.md) 
+* [2022-04-10-python-typings-for-aws-lambda-function-events](2022-04-10-python-typings-for-aws-lambda-function-events/index.md) 
+* [2022-06-06-aws-icons-for-plantuml-v130-released](2022-06-06-aws-icons-for-plantuml-v130-released/index.md) 
+* [2022-06-14-my-first-aws-blog](2022-06-14-my-first-aws-blog/index.md) 
