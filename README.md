@@ -210,7 +210,9 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 
 ## 2022
 
+* [2022-02-09-fun-with-emoji-zwj-sequences](2022-02-09-fun-with-emoji-zwj-sequences/index.md) 
 * [2022-03-29-aws-jwt-verify-v300-released](2022-03-29-aws-jwt-verify-v300-released/index.md) 
 * [2022-04-10-python-typings-for-aws-lambda-function-events](2022-04-10-python-typings-for-aws-lambda-function-events/index.md) 
 * [2022-06-06-aws-icons-for-plantuml-v130-released](2022-06-06-aws-icons-for-plantuml-v130-released/index.md) 
 * [2022-06-14-my-first-aws-blog](2022-06-14-my-first-aws-blog/index.md) 
+* [2022-10-02-sequence-diagrams-with-mermaid-and-diagramsnet](2022-10-02-sequence-diagrams-with-mermaid-and-diagramsnet/index.md) 
