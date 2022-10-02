@@ -62,4 +62,4 @@ You can use Diagrams.net (Draw.IO) as a drawing tool and create "pixel perfect" 
 
 Below is a PNG export of that drawn diagram with the "Grid" option. I also chose the "Include a copy of my diagram" option, so (hopefully) you can click this PNG and edit it in `app.diagrams.net`.
 
-[![Diagrams.net based sequence diagram](images/SequenceDiagrams-Diagrams.net.drawio.png)](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fhakanson%2Fraw%2Fmain%2F2022-10-02-sequence-diagrams-with-mermaid-and-diagramsnet%2Fimages%2FSequenceDiagrams-Diagrams.net.drawio.png)
+[![Diagrams.net based sequence diagram](images/SequenceDiagrams-Diagrams.net.drawio.png)](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Fhakanson%2Fblog-posts-markdown%2Fmain%2F2022-10-02-sequence-diagrams-with-mermaid-and-diagramsnet%2Fimages%2FSequenceDiagrams-Diagrams.net.drawio.png)
