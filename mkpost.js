@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2022-10-02";
-let title = "Sequence Diagrams with Mermaid and Diagrams.net";
+let date = "2023-01-12";
+let title = "Resilience on AWS at CodeFreeze 2023";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
-let hasImages = true;
-let tags = ["aws", "uml"];
+let hasImages = false;
+let tags = ["aws", "architecture", "disasterrecovery", "conference"];
 
 let slug =  `---
 title: ${title}

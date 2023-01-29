@@ -218,3 +218,8 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2022-06-06-aws-icons-for-plantuml-v130-released](2022-06-06-aws-icons-for-plantuml-v130-released/index.md) 
 * [2022-06-14-my-first-aws-blog](2022-06-14-my-first-aws-blog/index.md) 
 * [2022-10-02-sequence-diagrams-with-mermaid-and-diagramsnet](2022-10-02-sequence-diagrams-with-mermaid-and-diagramsnet/index.md) 
+* [2022-12-15-diagrams-as-code-episode-on-twitch](2022-12-15-diagrams-as-code-episode-on-twitch/index.md) 
+
+## 2023
+
+* [2023-01-12-resilience-on-aws-at-codefreeze-2023](2023-01-12-resilience-on-aws-at-codefreeze-2023/index.md) 
