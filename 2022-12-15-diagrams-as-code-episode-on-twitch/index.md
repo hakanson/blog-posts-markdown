@@ -8,7 +8,7 @@ tags: ["aws","architecture","uml"]
 
 So much fun on the [Build On AWS weekly - Code me some diagrams](https://www.twitch.tv/videos/1679798127) Twitch stream today talking diagrams-as-code with Darko, and surprising him with this:
 
-![Darko on AWS](images/darko.png)
+![Darko on AWS](images/Darko.png)
 
 
 The PlantUML source code (except for the full base64 PNG).
