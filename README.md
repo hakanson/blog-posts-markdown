@@ -217,9 +217,11 @@ Raw blog posts formatted in markdown for future import into somewhere else.  © 
 * [2022-04-10-python-typings-for-aws-lambda-function-events](2022-04-10-python-typings-for-aws-lambda-function-events/index.md) 
 * [2022-06-06-aws-icons-for-plantuml-v130-released](2022-06-06-aws-icons-for-plantuml-v130-released/index.md) 
 * [2022-06-14-my-first-aws-blog](2022-06-14-my-first-aws-blog/index.md) 
+* [2022-08-06-refactoring-python-based-aws-lambda-functions-for-testing](2022-08-06-refactoring-python-based-aws-lambda-functions-for-testing/index.md) 
 * [2022-10-02-sequence-diagrams-with-mermaid-and-diagramsnet](2022-10-02-sequence-diagrams-with-mermaid-and-diagramsnet/index.md) 
 * [2022-12-15-diagrams-as-code-episode-on-twitch](2022-12-15-diagrams-as-code-episode-on-twitch/index.md) 
 
 ## 2023
 
 * [2023-01-12-resilience-on-aws-at-codefreeze-2023](2023-01-12-resilience-on-aws-at-codefreeze-2023/index.md) 
+* [2023-03-13-cloudformation-output-values-using-the-aws-cli](2023-03-13-cloudformation-output-values-using-the-aws-cli/index.md) 
