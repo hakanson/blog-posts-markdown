@@ -1,7 +1,7 @@
 
 # Kevin Hakanson's Blog Posts in Markdown
 
-Raw blog posts formatted in markdown for future import into somewhere else.  © 2020 Kevin Hakanson
+Raw blog posts formatted in markdown for import into [kevinhakanson.com](https://kevinhakanson.com/).  ©2023 Kevin Hakanson
 
 ## 2008
 

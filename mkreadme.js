@@ -4,10 +4,10 @@ const { join } = require('path')
 let readme =  `
 # Kevin Hakanson's Blog Posts in Markdown
 
-Raw blog posts formatted in markdown for future import into somewhere else.  © 2020 Kevin Hakanson
+Raw blog posts formatted in markdown for import into [kevinhakanson.com](https://kevinhakanson.com/).  ©2023 Kevin Hakanson
 `;
 
-// loop through all direcrories
+// loop through all directories
 
 const getdirnames = p => readdirSync(p).filter(f => statSync(join(p, f)).isDirectory());
 
