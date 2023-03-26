@@ -4,7 +4,7 @@ slug: /2020-09-12-7-multi-cloud-governance-best-practices
 author: Kevin Hakanson
 date: 2020-09-12
 tags: ["cloud","security","architecture"]
-canonical: https://discover.opscompass.com/blog/7-multi-cloud-governance-best-practices
+canonical: https://opscompass.com/resources/blog/7-multi-cloud-governance-best-practices/
 ---
 
 I recently authored a [presentation on adopting multi-cloud](https://www.brighttalk.com/webcast/14725/430858), and pulled together this list of 7 multi-cloud best practices as a quick summary of the session. While I don’t claim this is an exhaustive list, it is a good starting point for those on a multi-cloud adoption journey.

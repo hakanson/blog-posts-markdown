@@ -4,7 +4,7 @@ slug: /2020-06-26-introduction-to-the-nist-cybersecurity-framework
 author: Kevin Hakanson
 date: 2020-06-26
 tags: ["cloud", "security", "nist"]
-canonical: https://discover.opscompass.com/blog/intro-to-nist-cybersecurity-framework
+canonical: https://opscompass.com/resources/blog/intro-to-nist-cybersecurity-framework/
 ---
 
 The [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework) (NIST CSF) was created via a collaboration between the United States government and industry as a voluntary framework to promote the protection of critical infrastructure, and is based on existing standards, guidelines, and practices.  The NIST CSF consists of three main components: Core, Implementation Tiers, and Profiles. In this blog, we will explore the Framework Core with the same example we used in [Understanding CIS Controls and Benchmarks](/2020-06-11-understanding-cis-controls-and-benchmarks).
