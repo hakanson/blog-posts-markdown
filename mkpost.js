@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2023-06-22";
-let title = "AWS Icons for PlantUML has dark mode";
+let date = "2023-07-01";
+let title = "My Favorite Laptop Stickers";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
 let hasImages = true;
-let tags = ["aws", "opensource", "uml"];
+let tags = ["random"];
 
 let slug =  `---
 title: ${title}
