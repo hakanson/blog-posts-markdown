@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2023-07-01";
-let title = "My Favorite Laptop Stickers";
+let date = "2023-11-20";
+let title = "Microsoft Certifications no longer on Credly";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
-let hasImages = true;
-let tags = ["random"];
+let hasImages = false;
+let tags = ["azure", "certification"];
 
 let slug =  `---
 title: ${title}
