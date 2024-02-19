@@ -1,7 +1,7 @@
 
 # Kevin Hakanson's Blog Posts in Markdown
 
-Raw blog posts formatted in markdown for import into [kevinhakanson.com](https://kevinhakanson.com/).  ©2023 Kevin Hakanson
+Raw blog posts formatted in markdown for import into [kevinhakanson.com](https://kevinhakanson.com/).  ©2024 Kevin Hakanson
 
 ## 2008
 
@@ -233,3 +233,7 @@ Raw blog posts formatted in markdown for import into [kevinhakanson.com](https:/
 * [2023-09-29-vitest-file-snapshots](2023-09-29-vitest-file-snapshots/index.md) 
 * [2023-10-25-agile-daily-stand-up-and-the-x-files](2023-10-25-agile-daily-stand-up-and-the-x-files/index.md) 
 * [2023-11-20-microsoft-certifications-no-longer-on-credly](2023-11-20-microsoft-certifications-no-longer-on-credly/index.md) 
+
+## 2024
+
+* [2024-02-12-testing-a-visual-studio-code-extension-inside-github-actions](2024-02-12-testing-a-visual-studio-code-extension-inside-github-actions/index.md) 

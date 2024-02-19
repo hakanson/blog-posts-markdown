@@ -4,7 +4,7 @@ const { join } = require('path')
 let readme =  `
 # Kevin Hakanson's Blog Posts in Markdown
 
-Raw blog posts formatted in markdown for import into [kevinhakanson.com](https://kevinhakanson.com/).  ©2023 Kevin Hakanson
+Raw blog posts formatted in markdown for import into [kevinhakanson.com](https://kevinhakanson.com/).  ©2024 Kevin Hakanson
 `;
 
 // loop through all directories
