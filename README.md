@@ -230,5 +230,6 @@ Raw blog posts formatted in markdown for import into [kevinhakanson.com](https:/
 * [2023-06-22-aws-icons-for-plantuml-has-dark-mode](2023-06-22-aws-icons-for-plantuml-has-dark-mode/index.md) 
 * [2023-07-01-my-favorite-laptop-stickers](2023-07-01-my-favorite-laptop-stickers/index.md) 
 * [2023-08-10-cedar-policy-language-extension-for-visual-studio-code](2023-08-10-cedar-policy-language-extension-for-visual-studio-code/index.md) 
+* [2023-09-29-vitest-file-snapshots](2023-09-29-vitest-file-snapshots/index.md) 
 * [2023-10-25-agile-daily-stand-up-and-the-x-files](2023-10-25-agile-daily-stand-up-and-the-x-files/index.md) 
 * [2023-11-20-microsoft-certifications-no-longer-on-credly](2023-11-20-microsoft-certifications-no-longer-on-credly/index.md) 
