@@ -1,6 +1,6 @@
 ---
 title: AWS Chalice, Amazon API Gateway, and AWS IAM Authorization
-slug: aws-chalice-amazon-api-gateway-and-aws-iam-authorization
+slug: /2017-08-15-aws-chalice-amazon-api-gateway-and-aws-iam-authorization
 author: Kevin Hakanson
 date: 2017-08-15
 tags: ["aws", "iam", "python", "api"]

@@ -1,6 +1,6 @@
 ---
 title: "\"Full Stack\" Caching Strategy"
-slug: full-stack-caching-strategy
+slug: /2018-10-17-full-stack-caching-strategy
 author: Kevin Hakanson
 date: 2018-10-17
 tags: ["webdev", "caching", "http"]

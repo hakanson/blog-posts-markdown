@@ -1,6 +1,6 @@
 ---
 title: AWS X-Ray Investigation
-slug: aws-x-ray-investigation
+slug: /2017-01-15-aws-x-ray-investigation
 author: Kevin Hakanson
 date: 2017-01-15
 tags: ["aws", "xray", "javascript", "monitoring"]

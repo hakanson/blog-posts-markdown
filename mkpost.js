@@ -11,12 +11,12 @@ function slugify(text)
     .replace(/-+$/, '');            // Trim - from end of text
 }
 
-let date = "2024-02-12";
-let title = "Testing a Visual Studio Code Extension inside GitHub Actions";
+let date = "2024-05-03";
+let title = "RDS IAM authentication and MySQL ERROR 1045";
 let slugTitle = slugify(title);
 let dir = `${date}-${slugTitle}`;
 let hasImages = false;
-let tags = ["vscode", "github", "codequality"];
+let tags = ["aws", "iam", "database", "cloud9"];
 
 let slug =  `---
 title: ${title}
