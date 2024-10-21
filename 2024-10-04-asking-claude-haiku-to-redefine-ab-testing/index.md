@@ -6,9 +6,9 @@ date: 2024-10-04
 tags: ["genai"]
 ---
 
-> During a call with customer, they mentioned that "friends and family" testing of features often gives positive feedback.  I thought this would be a fun use of generative AI so I asked Claude Haiku for some help "redefining" A/B testing:
-> 
->The software development terminology of A/B testing allows a team to experiment on two different strategies.  Suggest what words "A" and "B" should represent based on the following rules:
+During a call with customer, they mentioned that "friends and family" testing of features often gives positive feedback.  I thought this would be a fun use of generative AI so I asked Claude Haiku for some help "redefining" A/B testing:
+
+> The software development terminology of A/B testing allows a team to experiment on two different strategies.  Suggest what words "A" and "B" should represent based on the following rules:
 > - One term should begin with the letter A and the other with the letter B
 > - The first term should represent a group of people that are friendly or have a favorable opinion of what is being tested
 > - The second term should represent a group that is hostile to changes and has unfavorable opinions of what is being tested
