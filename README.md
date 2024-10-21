@@ -238,3 +238,4 @@ Raw blog posts formatted in markdown for import into [kevinhakanson.com](https:/
 
 * [2024-02-12-testing-a-visual-studio-code-extension-inside-github-actions](2024-02-12-testing-a-visual-studio-code-extension-inside-github-actions/index.md) 
 * [2024-05-03-rds-iam-authentication-and-mysql-error-1045](2024-05-03-rds-iam-authentication-and-mysql-error-1045/index.md) 
+* [2024-10-04-asking-claude-haiku-to-redefine-ab-testing](2024-10-04-asking-claude-haiku-to-redefine-ab-testing/index.md) 
