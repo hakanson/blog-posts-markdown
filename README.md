@@ -225,6 +225,7 @@ Raw blog posts formatted in markdown for import into [kevinhakanson.com](https:/
 
 * [2023-01-12-resilience-on-aws-at-codefreeze-2023](2023-01-12-resilience-on-aws-at-codefreeze-2023/index.md) 
 * [2023-02-06-hello-rust-wasm-nodejs](2023-02-06-hello-rust-wasm-nodejs/index.md) 
+* [2023-03-04-finding-outdated-aws-icons-in-drawio-files](2023-03-04-finding-outdated-aws-icons-in-drawio-files/index.md) 
 * [2023-03-13-cloudformation-output-values-using-the-aws-cli](2023-03-13-cloudformation-output-values-using-the-aws-cli/index.md) 
 * [2023-05-16-song-lyrics-represented-using-cedar-policy-language](2023-05-16-song-lyrics-represented-using-cedar-policy-language/index.md) 
 * [2023-06-22-aws-icons-for-plantuml-has-dark-mode](2023-06-22-aws-icons-for-plantuml-has-dark-mode/index.md) 
